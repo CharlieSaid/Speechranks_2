@@ -9,9 +9,10 @@ def extract_rounds_from_text(text):
     Extract debate round results from the cumulative text file using a team-experience-based approach.
     
     Strategy:
-    1. Split text by team experiences (ending with " - " pattern between two integers)
-    2. Remove page break lines from each team experience
-    3. Parse each team experience individually:
+    1. Extract year from page break lines
+    2. Split text by team experiences (ending with " - " pattern between two integers)
+    3. Remove page break lines from each team experience
+    4. Parse each team experience individually:
        - Line 1: Team Member 1 name
        - Line 2: Team code (first word) + organization
        - Line 3: Team Member 2 name
@@ -21,10 +22,37 @@ def extract_rounds_from_text(text):
     def is_page_break_line(line):
         """Check if line is a page break header"""
         page_break_indicators = ["Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday", 
-                               "Monday", "Page", "Team Policy", "Preliminary Round Results", "2009",
-                               "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", 
-                               "2020", "2021", "2022", "2023", "2024", "2025"]
-        return any(indicator in line for indicator in page_break_indicators)
+                               "Monday", "Page", "Team Policy", "Preliminary Round Results"]
+        
+        # Check for standard page break indicators
+        if any(indicator in line for indicator in page_break_indicators):
+            return True
+            
+        # Check if line contains a 4-digit year (20XX) - this indicates it's a page break line
+        if re.search(r'\b(20\d{2})\b', line):
+            return True
+            
+        return False
+    
+    def extract_year_from_text(text):
+        """Extract year from page break lines in the text"""
+        lines = text.split('\n')
+        for line in lines:
+            line = line.strip()
+            if is_page_break_line(line):
+                # Look for 4-digit year in the line
+                year_match = re.search(r'\b(20\d{2})\b', line)
+                if year_match:
+                    return year_match.group(1)
+        return None
+    
+    # Extract year from the text first
+    year = extract_year_from_text(text)
+    if year:
+        print(f"Detected year: {year}")
+    else:
+        print("No year detected in text")
+        year = "Unknown"
     
     def split_by_team_experiences(text):
         """
@@ -83,16 +111,15 @@ def extract_rounds_from_text(text):
             if line in ['W', 'L', 'BYE', 'FORFEIT']:
                 if current_round:
                     round_experiences.append(team_info + current_round)
-                    print(round_experiences[-1])
                     current_round = []
         
-        # Add any remaining lines as the last round (in case it doesn't end properly)
-        if current_round:
-            round_experiences.append(team_info + current_round)
+        # # Add any remaining lines as the last round (in case it doesn't end properly)
+        # if current_round:
+        #     round_experiences.append(team_info + current_round)
             
         return round_experiences
     
-    def parse_round_experience(round_lines):
+    def parse_round_experience(round_lines, year):
         """
         Parse a single round experience into round data.
         
@@ -161,6 +188,7 @@ def extract_rounds_from_text(text):
         # Create round record
         round_record = {
             'Team_Code': team_code,
+            'Year': year,
             'Member1_Name': member1_name,
             'Member2_Name': member2_name,
             'Member1_Points': member1_points,
@@ -175,7 +203,7 @@ def extract_rounds_from_text(text):
         
         return round_record
     
-    def parse_team_experience(team_lines):
+    def parse_team_experience(team_lines, year):
         """
         Parse a single team's experience into rounds data using the new round-based approach.
         """
@@ -186,7 +214,7 @@ def extract_rounds_from_text(text):
         round_num = 1
         
         for round_exp in round_experiences:
-            round_record = parse_round_experience(round_exp)
+            round_record = parse_round_experience(round_exp, year)
             if round_record:
                 round_record['Round'] = round_num
                 rounds_data.append(round_record)
@@ -215,7 +243,7 @@ def extract_rounds_from_text(text):
             continue  # Skip incomplete team experiences
             
         # Parse this team's data
-        team_rounds = parse_team_experience(cleaned_lines)
+        team_rounds = parse_team_experience(cleaned_lines, year)
         
         if team_rounds:
             team_code = team_rounds[0]['Team_Code']
@@ -261,23 +289,26 @@ def merge_duplicate_rounds(df):
         if team_b in ['BYE', 'FORFEIT']:
             merged_round = {
                 'Round_Number': round_num,
+                'Year': row['Year'],
                 'Source_File': row['Source_File'],
-                'Aff_Team_Code': team_a if row['Side'] == 'Aff' else team_b,
-                'Aff_Member1_Name': row['Member1_Name'] if row['Side'] == 'Aff' else '',
-                'Aff_Member2_Name': row['Member2_Name'] if row['Side'] == 'Aff' else '',
-                'Aff_Member1_Points': row['Member1_Points'] if row['Side'] == 'Aff' else 0,
-                'Aff_Member1_Rank': row['Member1_Rank'] if row['Side'] == 'Aff' else 0,
-                'Aff_Member2_Points': row['Member2_Points'] if row['Side'] == 'Aff' else 0,
-                'Aff_Member2_Rank': row['Member2_Rank'] if row['Side'] == 'Aff' else 0,
-                'Aff_Won': row['Won'] if row['Side'] == 'Aff' else (0 if team_b == 'FORFEIT' else 1),
-                'Neg_Team_Code': team_a if row['Side'] == 'Neg' else team_b,
-                'Neg_Member1_Name': row['Member1_Name'] if row['Side'] == 'Neg' else '',
-                'Neg_Member2_Name': row['Member2_Name'] if row['Side'] == 'Neg' else '',
-                'Neg_Member1_Points': row['Member1_Points'] if row['Side'] == 'Neg' else 0,
-                'Neg_Member1_Rank': row['Member1_Rank'] if row['Side'] == 'Neg' else 0,
-                'Neg_Member2_Points': row['Member2_Points'] if row['Side'] == 'Neg' else 0,
-                'Neg_Member2_Rank': row['Member2_Rank'] if row['Side'] == 'Neg' else 0,
-                'Neg_Won': row['Won'] if row['Side'] == 'Neg' else (0 if team_b == 'FORFEIT' else 1),
+                'Team1_Code': team_a,
+                'Team1_Side': row['Side'],
+                'Team1_Member1_Name': row['Member1_Name'],
+                'Team1_Member2_Name': row['Member2_Name'],
+                'Team1_Member1_Points': row['Member1_Points'],
+                'Team1_Member1_Rank': row['Member1_Rank'],
+                'Team1_Member2_Points': row['Member2_Points'],
+                'Team1_Member2_Rank': row['Member2_Rank'],
+                'Team1_Won': row['Won'],
+                'Team2_Code': team_b,
+                'Team2_Side': 'Neg' if row['Side'] == 'Aff' else 'Aff',  # Opposite of Team1
+                'Team2_Member1_Name': '',
+                'Team2_Member2_Name': '',
+                'Team2_Member1_Points': 0,
+                'Team2_Member1_Rank': 0,
+                'Team2_Member2_Points': 0,
+                'Team2_Member2_Rank': 0,
+                'Team2_Won': 0 if team_b == 'FORFEIT' else 1,
             }
             merged_rounds.append(merged_round)
             continue
@@ -298,34 +329,33 @@ def merge_duplicate_rounds(df):
         if len(opponent_row) == 1:
             opp = opponent_row.iloc[0]
             
-            # Determine which team was Aff and which was Neg
-            if row['Side'] == 'Aff':
-                aff_team = row
-                neg_team = opp
-            else:
-                aff_team = opp
-                neg_team = row
+            # Team1 is always the current row, Team2 is the opponent
+            team1 = row
+            team2 = opp
             
             # Create merged round data
             merged_round = {
                 'Round_Number': round_num,
+                'Year': row['Year'],  # Both teams should have same year
                 'Source_File': row['Source_File'],  # Both teams should have same source file
-                'Aff_Team_Code': aff_team['Team_Code'],
-                'Aff_Member1_Name': aff_team['Member1_Name'],
-                'Aff_Member2_Name': aff_team['Member2_Name'],
-                'Aff_Member1_Points': aff_team['Member1_Points'],
-                'Aff_Member1_Rank': aff_team['Member1_Rank'],
-                'Aff_Member2_Points': aff_team['Member2_Points'],
-                'Aff_Member2_Rank': aff_team['Member2_Rank'],
-                'Aff_Won': 1 if aff_team['Result'] == 'W' else 0,
-                'Neg_Team_Code': neg_team['Team_Code'],
-                'Neg_Member1_Name': neg_team['Member1_Name'],
-                'Neg_Member2_Name': neg_team['Member2_Name'],
-                'Neg_Member1_Points': neg_team['Member1_Points'],
-                'Neg_Member1_Rank': neg_team['Member1_Rank'],
-                'Neg_Member2_Points': neg_team['Member2_Points'],
-                'Neg_Member2_Rank': neg_team['Member2_Rank'],
-                'Neg_Won': 1 if neg_team['Result'] == 'W' else 0,
+                'Team1_Code': team1['Team_Code'],
+                'Team1_Side': team1['Side'],
+                'Team1_Member1_Name': team1['Member1_Name'],
+                'Team1_Member2_Name': team1['Member2_Name'],
+                'Team1_Member1_Points': team1['Member1_Points'],
+                'Team1_Member1_Rank': team1['Member1_Rank'],
+                'Team1_Member2_Points': team1['Member2_Points'],
+                'Team1_Member2_Rank': team1['Member2_Rank'],
+                'Team1_Won': 1 if team1['Result'] == 'W' else 0,
+                'Team2_Code': team2['Team_Code'],
+                'Team2_Side': team2['Side'],
+                'Team2_Member1_Name': team2['Member1_Name'],
+                'Team2_Member2_Name': team2['Member2_Name'],
+                'Team2_Member1_Points': team2['Member1_Points'],
+                'Team2_Member1_Rank': team2['Member1_Rank'],
+                'Team2_Member2_Points': team2['Member2_Points'],
+                'Team2_Member2_Rank': team2['Member2_Rank'],
+                'Team2_Won': 1 if team2['Result'] == 'W' else 0,
             }
             
             merged_rounds.append(merged_round)
@@ -410,11 +440,7 @@ def main():
         
         # Display summary
         print(f"\nMerged DataFrame created with {len(merged_df)} rows and {len(merged_df.columns)} columns")
-        print(f"Unique teams: {len(set(list(merged_df['Aff_Team_Code']) + list(merged_df['Neg_Team_Code'])))}")
-        
-        # Display first few rows
-        print("\nFirst 5 merged rounds:")
-        print(merged_df.head(5).to_string(index=False))
+        print(f"Unique teams: {len(set(list(merged_df['Team1_Code']) + list(merged_df['Team2_Code'])))}")
         
         # Save merged data to CSV
         merged_output_file = "matchup_model/rounds_extracted.csv"
@@ -424,28 +450,37 @@ def main():
         # Display some statistics
         print(f"\nStatistics:")
         print(f"Total rounds: {len(merged_df)}")
-        print(f"Aff win rate: {merged_df['Aff_Won'].mean():.3f}")
-        print(f"Neg win rate: {merged_df['Neg_Won'].mean():.3f}")
+        print(f"Team1 win rate: {merged_df['Team1_Won'].mean():.3f}")
+        print(f"Team2 win rate: {merged_df['Team2_Won'].mean():.3f}")
+        
+        # Calculate Aff/Neg win rates
+        aff_wins = len(merged_df[(merged_df['Team1_Side'] == 'Aff') & (merged_df['Team1_Won'] == 1)]) + \
+                   len(merged_df[(merged_df['Team2_Side'] == 'Aff') & (merged_df['Team2_Won'] == 1)])
+        total_aff = len(merged_df[merged_df['Team1_Side'] == 'Aff']) + len(merged_df[merged_df['Team2_Side'] == 'Aff'])
+        aff_win_rate = aff_wins / total_aff if total_aff > 0 else 0
+        print(f"Aff win rate: {aff_win_rate:.3f}")
+        print(f"Neg win rate: {1 - aff_win_rate:.3f}")
         
         # Calculate unique team codes
-        all_teams = set(list(merged_df['Aff_Team_Code']) + list(merged_df['Neg_Team_Code']))
+        all_teams = set(list(merged_df['Team1_Code']) + list(merged_df['Team2_Code']))
         # Remove BYE and FORFEIT from team count
         all_teams.discard('BYE')
         all_teams.discard('FORFEIT')
         print(f"\nUnique team codes: {len(all_teams)}")
         
-        # Statistics by source file
+        # Statistics by source file and year
         print(f"\nStatistics by source file:")
         for source_file in sorted(merged_df['Source_File'].unique()):
             file_df = merged_df[merged_df['Source_File'] == source_file]
-            file_teams = set(list(file_df['Aff_Team_Code']) + list(file_df['Neg_Team_Code']))
+            file_teams = set(list(file_df['Team1_Code']) + list(file_df['Team2_Code']))
             file_teams.discard('BYE')
             file_teams.discard('FORFEIT')
-            print(f"  {source_file}: {len(file_df)} rounds, {len(file_teams)} teams")
+            year = file_df['Year'].iloc[0] if len(file_df) > 0 else "Unknown"
+            print(f"  {source_file} ({year}): {len(file_df)} rounds, {len(file_teams)} teams")
         
         # Count special rounds
-        bye_rounds = len(merged_df[(merged_df['Aff_Team_Code'] == 'BYE') | (merged_df['Neg_Team_Code'] == 'BYE')])
-        forfeit_rounds = len(merged_df[(merged_df['Aff_Team_Code'] == 'FORFEIT') | (merged_df['Neg_Team_Code'] == 'FORFEIT')])
+        bye_rounds = len(merged_df[(merged_df['Team1_Code'] == 'BYE') | (merged_df['Team2_Code'] == 'BYE')])
+        forfeit_rounds = len(merged_df[(merged_df['Team1_Code'] == 'FORFEIT') | (merged_df['Team2_Code'] == 'FORFEIT')])
         regular_rounds = len(merged_df) - bye_rounds - forfeit_rounds
         
         print(f"\nRound types:")
@@ -461,21 +496,64 @@ def main():
         
         # Calculate speaker point statistics
         all_points = []
-        all_points.extend(merged_df['Aff_Member1_Points'].tolist())
-        all_points.extend(merged_df['Aff_Member2_Points'].tolist())
-        all_points.extend(merged_df['Neg_Member1_Points'].tolist())
-        all_points.extend(merged_df['Neg_Member2_Points'].tolist())
+        all_points.extend(merged_df['Team1_Member1_Points'].tolist())
+        all_points.extend(merged_df['Team1_Member2_Points'].tolist())
+        all_points.extend(merged_df['Team2_Member1_Points'].tolist())
+        all_points.extend(merged_df['Team2_Member2_Points'].tolist())
         
-        print(f"\nSpeaker point statistics:")
-        print(f"  Maximum speaker points: {max(all_points):.1f}")
-        print(f"  Minimum speaker points: {min(all_points):.1f}")
-        print(f"  Average speaker points: {sum(all_points)/len(all_points):.2f}")
+        # Filter out zero points (from BYE/FORFEIT rounds)
+        non_zero_points = [p for p in all_points if p > 0]
         
-        print(f"\nAverage speaker points by position:")
-        print(f"  Aff Member 1: {merged_df['Aff_Member1_Points'].mean():.2f}")
-        print(f"  Aff Member 2: {merged_df['Aff_Member2_Points'].mean():.2f}")
-        print(f"  Neg Member 1: {merged_df['Neg_Member1_Points'].mean():.2f}")
-        print(f"  Neg Member 2: {merged_df['Neg_Member2_Points'].mean():.2f}")
+        if non_zero_points:
+            print(f"\nSpeaker point statistics:")
+            print(f"  Maximum speaker points: {max(non_zero_points):.1f}")
+            print(f"  Minimum speaker points: {min(non_zero_points):.1f}")
+            print(f"  Average speaker points: {sum(non_zero_points)/len(non_zero_points):.2f}")
+            
+            print(f"\nAverage speaker points by team position:")
+            team1_mem1_points = [p for p in merged_df['Team1_Member1_Points'].tolist() if p > 0]
+            team1_mem2_points = [p for p in merged_df['Team1_Member2_Points'].tolist() if p > 0]
+            team2_mem1_points = [p for p in merged_df['Team2_Member1_Points'].tolist() if p > 0]
+            team2_mem2_points = [p for p in merged_df['Team2_Member2_Points'].tolist() if p > 0]
+            
+            if team1_mem1_points:
+                print(f"  Team1 Member 1: {sum(team1_mem1_points)/len(team1_mem1_points):.2f}")
+            if team1_mem2_points:
+                print(f"  Team1 Member 2: {sum(team1_mem2_points)/len(team1_mem2_points):.2f}")
+            if team2_mem1_points:
+                print(f"  Team2 Member 1: {sum(team2_mem1_points)/len(team2_mem1_points):.2f}")
+            if team2_mem2_points:
+                print(f"  Team2 Member 2: {sum(team2_mem2_points)/len(team2_mem2_points):.2f}")
+            
+            # Calculate speaker points by side (Aff/Neg)
+            aff_team1_df = merged_df[merged_df['Team1_Side'] == 'Aff']
+            aff_team2_df = merged_df[merged_df['Team2_Side'] == 'Aff']
+            neg_team1_df = merged_df[merged_df['Team1_Side'] == 'Neg']
+            neg_team2_df = merged_df[merged_df['Team2_Side'] == 'Neg']
+            
+            all_aff_points = []
+            if len(aff_team1_df) > 0:
+                all_aff_points.extend([p for p in aff_team1_df['Team1_Member1_Points'].tolist() if p > 0])
+                all_aff_points.extend([p for p in aff_team1_df['Team1_Member2_Points'].tolist() if p > 0])
+            if len(aff_team2_df) > 0:
+                all_aff_points.extend([p for p in aff_team2_df['Team2_Member1_Points'].tolist() if p > 0])
+                all_aff_points.extend([p for p in aff_team2_df['Team2_Member2_Points'].tolist() if p > 0])
+            
+            all_neg_points = []
+            if len(neg_team1_df) > 0:
+                all_neg_points.extend([p for p in neg_team1_df['Team1_Member1_Points'].tolist() if p > 0])
+                all_neg_points.extend([p for p in neg_team1_df['Team1_Member2_Points'].tolist() if p > 0])
+            if len(neg_team2_df) > 0:
+                all_neg_points.extend([p for p in neg_team2_df['Team2_Member1_Points'].tolist() if p > 0])
+                all_neg_points.extend([p for p in neg_team2_df['Team2_Member2_Points'].tolist() if p > 0])
+            
+            print(f"\nAverage speaker points by side:")
+            if all_aff_points:
+                print(f"  Aff speakers: {sum(all_aff_points)/len(all_aff_points):.2f}")
+            if all_neg_points:
+                print(f"  Neg speakers: {sum(all_neg_points)/len(all_neg_points):.2f}")
+        else:
+            print("\nNo speaker point data available.")
         
     else:
         print("No rounds data extracted. Please check the text file format.")
