@@ -1,0 +1,200 @@
+/* Tournament Simulator Styles */
+.tournament-container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.action-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px 0;
+    transition: background-color 0.3s;
+}
+
+.action-button:hover {
+    background-color: #45a049;
+}
+
+#testResult {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+#testResult.success {
+    background-color: #dff0d8;
+    color: #3c763d;
+    border: 1px solid #d6e9c6;
+}
+
+#testResult.error {
+    background-color: #f2dede;
+    color: #a94442;
+    border: 1px solid #ebccd1;
+}
+
+/* Team list styles (for roster on the right) */
+.team-list {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0; /* Added some margin for spacing */
+    width: 100%;
+}
+.team-list li {
+    padding: 8px 12px; /* Slightly less padding for roster items */
+    border-bottom: 1px solid var(--light-gray);
+    font-family: 'Black Ops One', Calibri, sans-serif;
+    font-size: 0.95em; /* Slightly smaller for roster */
+    background: white;
+    color: var(--primary-black);
+    cursor: pointer;
+    transition: background 0.2s;
+}
+.team-list li:hover {
+    background: var(--highlight-red);
+    color: var(--primary-red);
+}
+
+/* Centered finalized roster */
+.centered-roster {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 40px auto;
+    padding: 30px 40px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    max-width: 500px;
+}
+.centered-roster h2 {
+    margin-bottom: 20px;
+    color: var(--primary-black);
+    font-family: 'Black Ops One', Calibri, sans-serif;
+}
+.centered-roster .team-list {
+    width: 100%;
+}
+/* Ensure the .finalize-container is centered and has some space */
+.finalize-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin-top: 10px;
+    border-top: 1px solid var(--light-gray);
+}
+
+/* Styles for Tournament Simulator Team Selection Table */
+
+/* Ensure .table-container behaves as on main page */
+#teamSelectPanel .table-container {
+    width: 100%;
+    overflow-x: hidden; /* Prevent horizontal scroll */
+    margin-top: 20px; /* From main page */
+    flex-grow: 1; /* Allow table container to fill space */
+    display: flex; /* To make table fill height if left-panel is flex */
+    flex-direction: column;
+}
+
+#teamSelectTable {
+    display: table;
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed; /* Force table to respect column widths */
+}
+
+/* Header row styles from main page */
+#teamSelectTable thead.table-header tr {
+    background: linear-gradient(200deg, var(--primary-black), var(--medium-gray));
+    border-radius: 3px;
+    /* position: sticky; // Not making sticky for now, can add if needed */
+    /* top: 0; // Only if sticky */
+    overflow: hidden; /* Ensure content respects border radius */
+}
+
+#teamSelectTable th {
+    background-color: transparent; /* Part of the gradient */
+    border: none;
+    color: white;
+    padding: 6px 8px; /* Match main page's #teamsTable th padding */
+    text-align: left;
+    font-family: 'Black Ops One', Calibri, sans-serif; /* Match font */
+    cursor: default; /* Not sortable yet */
+    position: relative;
+    /* z-index: 2; // Only if sticky */
+    display: table-cell;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* First and last header cells for border-radius */
+#teamSelectTable thead.table-header th:first-child {
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+#teamSelectTable thead.table-header th:last-child {
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+/* Table body and cell styles from main page */
+#teamSelectTable tbody tr:hover {
+    background-color: var(--highlight-red);
+    cursor: pointer;
+}
+
+#teamSelectTable td {
+    display: table-cell;
+    padding: 6px 8px; /* Match main page's #teamsTable td padding */
+    border-bottom: 1px solid var(--light-gray);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: var(--primary-black); /* Default text color for cells */
+    font-family: 'Calibri', sans-serif; /* Match main page cell font */
+}
+
+/* Column widths from main page's #teamsTable */
+#teamSelectTable th:nth-child(1), #teamSelectTable td:nth-child(1) { /* Team */
+    width: 35%;
+}
+#teamSelectTable th:nth-child(2), #teamSelectTable td:nth-child(2) { /* State */
+    width: 8%;
+}
+#teamSelectTable th:nth-child(3), #teamSelectTable td:nth-child(3) { /* Club */
+    width: 27%;
+}
+#teamSelectTable th:nth-child(4), #teamSelectTable td:nth-child(4) { /* Rank */
+    width: 10%;
+    text-align: center; /* Rank is often centered */
+}
+#teamSelectTable th:nth-child(5), #teamSelectTable td:nth-child(5) { /* Points */
+    width: 10%;
+    text-align: right; /* Points are often right-aligned */
+}
+#teamSelectTable th:nth-child(6), #teamSelectTable td:nth-child(6), /* Wins */
+#teamSelectTable th:nth-child(7), #teamSelectTable td:nth-child(7) { /* Losses */
+    width: 5%;
+    text-align: center; /* W/L often centered */
+}
+
+/* Specific cell styling for clickable effect if needed, like main page */
+#teamSelectTable td.clickable {
+    cursor: pointer;
+    color: var(--primary-red);
+}
+#teamSelectTable td.clickable:hover {
+    text-decoration: underline;
+} 

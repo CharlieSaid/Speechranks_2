@@ -1,0 +1,157 @@
+/* Matchup Page Specific Styles */
+
+/* Ensure the main container for matchup page has some basic styling if needed */
+#matchupContainer {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 20px auto;
+    background-color: #fff; /* Similar to tournament-container */
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* Align items at the start of the cross axis (top for row flex) */
+    /* This assumes #matchupContainer is using display: flex from the global .container style */
+    align-items: flex-start; 
+}
+
+/* Ensure consistent internal layout for both panels */
+#matchupLeftPanel,
+#matchupRightPanel {
+    padding-top: 15px;    /* Consistent top padding */
+    padding-bottom: 15px; /* Consistent bottom padding */
+    /* Horizontal padding (20px) is inherited from .left-panel/.right-panel rules in styles.css */
+    /* border-right on #matchupLeftPanel is inherited from .left-panel in styles.css */
+}
+
+#matchupRightPanel {
+    display: flex;          /* Make right panel a flex container */
+    flex-direction: column; /* Stack items vertically */
+}
+
+/* Style for the panel labels (Team 1, Team 2) */
+.search-label {
+    display: block; /* Make it a block to take full width and allow margins/padding */
+    font-family: 'Black Ops One', Calibri, sans-serif; /* Match main page headers */
+    color: white;
+    background: linear-gradient(200deg, var(--primary-black), var(--medium-gray)); /* Match #selectedTeamName */
+    padding: 10px 15px;
+    margin-bottom: 15px; /* Space below the header */
+    border-radius: 3px;
+    font-size: 1.2em; /* Slightly larger for a header feel */
+    text-align: center; /* Center the text within the label */
+}
+
+/* Style for the test result area */
+#matchupTestResult.success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border: 1px solid #d6e9c6;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+#matchupTestResult.error {
+    color: #a94442;
+    background-color: #f2dede;
+    border: 1px solid #ebccd1;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+/* Styles for team items in the matchup selection lists */
+.matchup-team-item {
+    padding: 8px 12px;
+    border-bottom: 1px solid #eee; /* Light border for separation */
+    cursor: pointer;
+    font-size: 0.9em;
+    color: var(--primary-black);
+    background-color: #fff; /* Default background */
+}
+
+.matchup-team-item:last-child {
+    border-bottom: none; /* No border for the last item */
+}
+
+.matchup-team-item:hover {
+    background-color: #f0f0f0; /* Highlight on hover */
+}
+
+/* Container for the results if they become scrollable */
+#team1Results,
+#team2Results {
+    max-height: 300px; /* Example max height */
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 10px; /* Space above the results list */
+}
+
+/* Styles for the displayed selected team information container */
+.selected-team-info {
+    /* padding: 15px; --- Padding will be handled by table cells now for this specific look */
+    /* background-color: #f9f9f9; --- Removed to let table cells control background fully */
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-top: 10px;
+    overflow: hidden; /* Ensures border-radius clips cell backgrounds */
+}
+
+/* Remove obsolete .selected-team-info p styles if no longer used for direct P elements */
+/* .selected-team-info p { ... } */
+/* .selected-team-info p:last-child { ... } */
+
+/* Styles for the statistics table within selected-team-info */
+.stats-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.stats-table td {
+    padding: 0; 
+    font-size: 1em; /* Default to a slightly larger base for clarity */
+    vertical-align: middle; /* Align text vertically in cells */
+}
+
+.stats-table tr {
+    border-bottom: 1px solid #ddd; /* Slightly darker border for better separation */
+}
+
+.stats-table tr:last-child {
+    border-bottom: none;
+}
+
+/* Style for the label column (first td in each row) - mimics table header */
+.selected-team-info .stats-table td:first-child {
+    background-color: var(--dark-gray) !important; /* Ensure this background applies */
+    color: white !important; /* Ensure this color applies */
+    font-family: 'Black Ops One', Calibri, sans-serif;
+    padding: 10px 15px; /* Consistent padding */
+    font-weight: normal;
+    width: 45%; /* Define a width for the label column */
+    text-align: left;
+}
+
+/* Style for the value column (second td in each row) - mimics table data cell */
+.selected-team-info .stats-table td:last-child {
+    background-color: #fff !important; /* Ensure this background applies */
+    color: var(--primary-black) !important; /* Ensure this color applies */
+    font-family: 'Calibri', sans-serif;
+    padding: 10px 15px; /* Consistent padding */
+    text-align: right;
+}
+
+/* Styles for headers within the stats container (e.g., "Summary Metrics") */
+.stats-header {
+    font-family: 'Black Ops One', Calibri, sans-serif;
+    font-size: 1.1em;
+    color: var(--primary-black);
+    padding: 10px 15px;
+    margin: 15px 0 5px 0; /* More margin top, less bottom before table/content */
+    background-color: #f0f0f0; /* Light gray background for the header bar */
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc; /* Add a top border too for a contained look */
+    border-radius: 3px; /* Slightly rounded corners for the header bar itself */
+}
+
+.stats-header:first-child {
+    margin-top: 0; /* Remove top margin for the very first header in the box */
+} 

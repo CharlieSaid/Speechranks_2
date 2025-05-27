@@ -1,0 +1,7423 @@
+[
+  {
+    "name": "OK - NCFCA Nationals: Jun 21-25",
+    "url": "http://www.speechranks.com/2015/tournaments/view/1000",
+    "state": "OK",
+    "date": "2015-06-21",
+    "date_raw": "Jun 21-25",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "89"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "43"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "61"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "142"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "104"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "75"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "77"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "77"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "62"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "124"
+      }
+    ]
+  },
+  {
+    "name": "MO - National Invitational Tournament of Champions: May 23-28",
+    "url": "http://www.speechranks.com/2015/tournaments/view/999",
+    "state": "MO",
+    "date": "2015-05-23",
+    "date_raw": "May 23-28",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "131"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "35"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "48"
+      },
+      {
+        "name": "Expository flag",
+        "population": "54"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "129"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "40"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "86"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "138"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "51"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "58"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "110"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "65"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "119"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "119"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "86"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "172"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "123"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "246"
+      }
+    ]
+  },
+  {
+    "name": "MI - Northwood Invitational: May 20-21",
+    "url": "http://www.speechranks.com/2015/tournaments/view/997",
+    "state": "MI",
+    "date": "2015-05-20",
+    "date_raw": "May 20-21",
+    "events": [
+      {
+        "name": "Team Policy Debate flag",
+        "population": "32"
+      }
+    ]
+  },
+  {
+    "name": "FL - Region VIII Invitational: May  5-7",
+    "url": "http://www.speechranks.com/2015/tournaments/view/995",
+    "state": "FL",
+    "date": "2015-05-05",
+    "date_raw": "May  5-7",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "39"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "22"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "31"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "52"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "31"
+      },
+      {
+        "name": "Original Interpretation flag",
+        "population": "22"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "57"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "57"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "28"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "56"
+      }
+    ]
+  },
+  {
+    "name": "WA - Region II Invitational: May  4-7",
+    "url": "http://www.speechranks.com/2015/tournaments/view/996",
+    "state": "WA",
+    "date": "2015-05-04",
+    "date_raw": "May  4-7",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "34"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "18"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "41"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "23"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "14"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "14"
+      }
+    ]
+  },
+  {
+    "name": "CA - Parle Denouement : Apr 30",
+    "url": "http://www.speechranks.com/2015/tournaments/view/988",
+    "state": "CA",
+    "date": "2015-04-30",
+    "date_raw": "Apr 30",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "21"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Expository flag",
+        "population": "11"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "12"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "30"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "13"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "13"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "5"
+      }
+    ]
+  },
+  {
+    "name": "GA - EAGLES-Famous Last Words: Apr 29-30",
+    "url": "http://www.speechranks.com/2015/tournaments/view/984",
+    "state": "GA",
+    "date": "2015-04-29",
+    "date_raw": "Apr 29-30",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "7"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "5"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "6"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "11"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "5"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "4"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "11"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "11"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "8"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "16"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "9"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "18"
+      }
+    ]
+  },
+  {
+    "name": "FL - Hurricane Challenge: Apr 29-30",
+    "url": "http://www.speechranks.com/2015/tournaments/view/993",
+    "state": "FL",
+    "date": "2015-04-29",
+    "date_raw": "Apr 29-30",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "10"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "8"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "4"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "4"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "3"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "8"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "9"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "13"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "13"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "10"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "20"
+      }
+    ]
+  },
+  {
+    "name": "CA - San Diego Epilogue: Apr 29-30",
+    "url": "http://www.speechranks.com/2015/tournaments/view/992",
+    "state": "CA",
+    "date": "2015-04-29",
+    "date_raw": "Apr 29-30",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "48"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "16"
+      },
+      {
+        "name": "Expository flag",
+        "population": "16"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "18"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "24"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "40"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "20"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "21"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "45"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "21"
+      }
+    ]
+  },
+  {
+    "name": "TX - Corpus Christi Curtain Call: Apr 28-30",
+    "url": "http://www.speechranks.com/2015/tournaments/view/987",
+    "state": "TX",
+    "date": "2015-04-28",
+    "date_raw": "Apr 28-30",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "10"
+      },
+      {
+        "name": "Expository flag",
+        "population": "5"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "8"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "6"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "11"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "5"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "5"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "6"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "3"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "11"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "11"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "7"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "14"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "7"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "14"
+      }
+    ]
+  },
+  {
+    "name": "NJ - Region X Regionals: Apr 25-28",
+    "url": "http://www.speechranks.com/2015/tournaments/view/990",
+    "state": "NJ",
+    "date": "2015-04-25",
+    "date_raw": "Apr 25-28",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "22"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "14"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "25"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "17"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "11"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "13"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "30"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "22"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "26"
+      },
+      {
+        "name": "Original Interpretation flag",
+        "population": "15"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "21"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "28"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "28"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "13"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "26"
+      }
+    ]
+  },
+  {
+    "name": "CA - Purely Parli: Apr 23",
+    "url": "http://www.speechranks.com/2015/tournaments/view/980",
+    "state": "CA",
+    "date": "2015-04-23",
+    "date_raw": "Apr 23",
+    "events": [
+      {
+        "name": "Extemporaneous flag",
+        "population": "11"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "24"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "48"
+      }
+    ]
+  },
+  {
+    "name": "TN - Individual Policy Tournament of Champions: Apr 22-23",
+    "url": "http://www.speechranks.com/2015/tournaments/view/985",
+    "state": "TN",
+    "date": "2015-04-22",
+    "date_raw": "Apr 22-23",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "3"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "5"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "6"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "4"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "3"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "11"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "11"
+      },
+      {
+        "name": "Individual Policy Debate flag",
+        "population": "25"
+      },
+      {
+        "name": "Individual Policy Speaker flag",
+        "population": "25"
+      }
+    ]
+  },
+  {
+    "name": "TX - Lone Star Roundup: Apr 22-23",
+    "url": "http://www.speechranks.com/2015/tournaments/view/976",
+    "state": "TX",
+    "date": "2015-04-22",
+    "date_raw": "Apr 22-23",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "14"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "14"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "17"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "34"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "17"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "34"
+      },
+      {
+        "name": "Individual Policy Debate flag",
+        "population": "8"
+      },
+      {
+        "name": "Individual Policy Speaker flag",
+        "population": "8"
+      }
+    ]
+  },
+  {
+    "name": "NC - Southern Classic: Apr 22-23",
+    "url": "http://www.speechranks.com/2015/tournaments/view/991",
+    "state": "NC",
+    "date": "2015-04-22",
+    "date_raw": "Apr 22-23",
+    "events": [
+      {
+        "name": "Impromptu Apologetics flag",
+        "population": "10"
+      },
+      {
+        "name": "Dramatic Duo Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Expository/Illustrated Oratory flag",
+        "population": "4"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "26"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "7"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "25"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "50"
+      }
+    ]
+  },
+  {
+    "name": "CA - The Big Whig Tournament: Apr 22-23",
+    "url": "http://www.speechranks.com/2015/tournaments/view/979",
+    "state": "CA",
+    "date": "2015-04-22",
+    "date_raw": "Apr 22-23",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "34"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "34"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "17"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "34"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "15"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "30"
+      }
+    ]
+  },
+  {
+    "name": "OH - Region VI Invitational: Apr 21-23",
+    "url": "http://www.speechranks.com/2015/tournaments/view/981",
+    "state": "OH",
+    "date": "2015-04-21",
+    "date_raw": "Apr 21-23",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "36"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "23"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "29"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "23"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "23"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "37"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "30"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "29"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "34"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "34"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "27"
+      }
+    ]
+  },
+  {
+    "name": "NC - Region IX Invitational: Apr 20-23",
+    "url": "http://www.speechranks.com/2015/tournaments/view/982",
+    "state": "NC",
+    "date": "2015-04-20",
+    "date_raw": "Apr 20-23",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "31"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "19"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "37"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "30"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "32"
+      }
+    ]
+  },
+  {
+    "name": "AL - Region VII Invitational: Apr 20-23",
+    "url": "http://www.speechranks.com/2015/tournaments/view/983",
+    "state": "AL",
+    "date": "2015-04-20",
+    "date_raw": "Apr 20-23",
+    "events": [
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "14"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "16"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "22"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "35"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "26"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "23"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "23"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "30"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "60"
+      }
+    ]
+  },
+  {
+    "name": "CO - Rock'n Debate Spring Tournament: Apr 15-16",
+    "url": "http://www.speechranks.com/2015/tournaments/view/977",
+    "state": "CO",
+    "date": "2015-04-15",
+    "date_raw": "Apr 15-16",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "15"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "15"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "11"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "22"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "17"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "34"
+      }
+    ]
+  },
+  {
+    "name": "CA - Central Valley Challenge: Apr 14-16",
+    "url": "http://www.speechranks.com/2015/tournaments/view/974",
+    "state": "CA",
+    "date": "2015-04-14",
+    "date_raw": "Apr 14-16",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "43"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "9"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Expository flag",
+        "population": "15"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "38"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "24"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "32"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "16"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "23"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "30"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "17"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "25"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "25"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "49"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "98"
+      }
+    ]
+  },
+  {
+    "name": "OK - District A Qualifier: Apr 13-16",
+    "url": "http://www.speechranks.com/2015/tournaments/view/1001",
+    "state": "OK",
+    "date": "2015-04-13",
+    "date_raw": "Apr 13-16",
+    "events": []
+  },
+  {
+    "name": "WA - Espresso Cup: Apr 13-16",
+    "url": "http://www.speechranks.com/2015/tournaments/view/970",
+    "state": "WA",
+    "date": "2015-04-13",
+    "date_raw": "Apr 13-16",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "33"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "12"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Expository flag",
+        "population": "15"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "18"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "9"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "31"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "28"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "12"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "25"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "11"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "20"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "20"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "13"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "26"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "21"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "42"
+      }
+    ]
+  },
+  {
+    "name": "MO - KC Animi Invitational: Apr 13-16",
+    "url": "http://www.speechranks.com/2015/tournaments/view/975",
+    "state": "MO",
+    "date": "2015-04-13",
+    "date_raw": "Apr 13-16",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "20"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Expository flag",
+        "population": "15"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "24"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "15"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "23"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "10"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "18"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "15"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "9"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "20"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "20"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "12"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "24"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "20"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "40"
+      }
+    ]
+  },
+  {
+    "name": "VA - Fresta Valley Speech: Apr  9",
+    "url": "http://www.speechranks.com/2015/tournaments/view/971",
+    "state": "VA",
+    "date": "2015-04-09",
+    "date_raw": "Apr  9",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "6"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Expository flag",
+        "population": "7"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "12"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "9"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "14"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "12"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "5"
+      }
+    ]
+  },
+  {
+    "name": "AR - Arkansas Classic: Apr  8-9",
+    "url": "http://www.speechranks.com/2015/tournaments/view/960",
+    "state": "AR",
+    "date": "2015-04-08",
+    "date_raw": "Apr  8-9",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "8"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Expository flag",
+        "population": "5"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "13"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "9"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "10"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "15"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "15"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "16"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "32"
+      }
+    ]
+  },
+  {
+    "name": "WA - Northwest Washington Qualifier: Apr  6-9",
+    "url": "http://www.speechranks.com/2015/tournaments/view/972",
+    "state": "WA",
+    "date": "2015-04-06",
+    "date_raw": "Apr  6-9",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "63"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "16"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "19"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "22"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "31"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "20"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "20"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "46"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "92"
+      }
+    ]
+  },
+  {
+    "name": "NC - Cape Fear Classic: Apr  1-2",
+    "url": "http://www.speechranks.com/2015/tournaments/view/964",
+    "state": "NC",
+    "date": "2015-04-01",
+    "date_raw": "Apr  1-2",
+    "events": [
+      {
+        "name": "Impromptu Apologetics flag",
+        "population": "11"
+      },
+      {
+        "name": "Dramatic Duo Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Expository/Illustrated Oratory flag",
+        "population": "1"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "20"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "5"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "21"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "42"
+      }
+    ]
+  },
+  {
+    "name": "OH - North Canton Invitational: Apr  1-2",
+    "url": "http://www.speechranks.com/2015/tournaments/view/967",
+    "state": "OH",
+    "date": "2015-04-01",
+    "date_raw": "Apr  1-2",
+    "events": [
+      {
+        "name": "Team Policy Debate flag",
+        "population": "27"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "54"
+      }
+    ]
+  },
+  {
+    "name": "HI - Final Lap in Paradise: Mar 31-Apr  2",
+    "url": "http://www.speechranks.com/2015/tournaments/view/973",
+    "state": "HI",
+    "date": "2015-03-31",
+    "date_raw": "Mar 31-Apr  2",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "7"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Expository flag",
+        "population": "6"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "11"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "20"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "11"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "20"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "4"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "5"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "9"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "18"
+      }
+    ]
+  },
+  {
+    "name": "GA - Jonesboro Qualifier: Mar 31-Apr  2",
+    "url": "http://www.speechranks.com/2015/tournaments/view/969",
+    "state": "GA",
+    "date": "2015-03-31",
+    "date_raw": "Mar 31-Apr  2",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "54"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "22"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "48"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "32"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "16"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "49"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "80"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "65"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "42"
+      },
+      {
+        "name": "Original Interpretation flag",
+        "population": "23"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "48"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "85"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "85"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "38"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "76"
+      }
+    ]
+  },
+  {
+    "name": "TX - NB 500: Mar 31-Apr  2",
+    "url": "http://www.speechranks.com/2015/tournaments/view/957",
+    "state": "TX",
+    "date": "2015-03-31",
+    "date_raw": "Mar 31-Apr  2",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "39"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Expository flag",
+        "population": "15"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "37"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "12"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "20"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "20"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "29"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "21"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "17"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "35"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "17"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "45"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "45"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "26"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "52"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "30"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "60"
+      }
+    ]
+  },
+  {
+    "name": "AR - Surgamus: Let Us Rise: Mar 31-Apr  2",
+    "url": "http://www.speechranks.com/2015/tournaments/view/958",
+    "state": "AR",
+    "date": "2015-03-31",
+    "date_raw": "Mar 31-Apr  2",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "11"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Expository flag",
+        "population": "11"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "24"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "13"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "21"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "8"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "6"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "27"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "27"
+      }
+    ]
+  },
+  {
+    "name": "VA - Battle of Fredericksburg: Mar 30-Apr  2",
+    "url": "http://www.speechranks.com/2015/tournaments/view/963",
+    "state": "VA",
+    "date": "2015-03-30",
+    "date_raw": "Mar 30-Apr  2",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "47"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "30"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "58"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "40"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "45"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "23"
+      }
+    ]
+  },
+  {
+    "name": "CA - Heart of the Valley: Mar 30-Apr  1",
+    "url": "http://www.speechranks.com/2015/tournaments/view/959",
+    "state": "CA",
+    "date": "2015-03-30",
+    "date_raw": "Mar 30-Apr  1",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "64"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "16"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "19"
+      },
+      {
+        "name": "Expository flag",
+        "population": "28"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "80"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "15"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "43"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "33"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "80"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "32"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "29"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "46"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "18"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "47"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "47"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "36"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "72"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "89"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "178"
+      }
+    ]
+  },
+  {
+    "name": "TN - Mars Hill Match: Mar 30-Apr  2",
+    "url": "http://www.speechranks.com/2015/tournaments/view/962",
+    "state": "TN",
+    "date": "2015-03-30",
+    "date_raw": "Mar 30-Apr  2",
+    "events": [
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "16"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "14"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "64"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "50"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "35"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "33"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "35"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "35"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "52"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "104"
+      }
+    ]
+  },
+  {
+    "name": "NJ - NJQ: Mar 29-Apr  1",
+    "url": "http://www.speechranks.com/2015/tournaments/view/968",
+    "state": "NJ",
+    "date": "2015-03-29",
+    "date_raw": "Mar 29-Apr  1",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "24"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "20"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "21"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "15"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "8"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "16"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "44"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "25"
+      },
+      {
+        "name": "Original Interpretation flag",
+        "population": "12"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "25"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "34"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "20"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "40"
+      }
+    ]
+  },
+  {
+    "name": "CO - Rocky Mountain Classic: Mar 23-26",
+    "url": "http://www.speechranks.com/2015/tournaments/view/956",
+    "state": "CO",
+    "date": "2015-03-23",
+    "date_raw": "Mar 23-26",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "21"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "17"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "19"
+      },
+      {
+        "name": "Expository flag",
+        "population": "17"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "51"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "14"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "21"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "18"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "45"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "15"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "21"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "16"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "8"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "25"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "25"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "18"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "36"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "34"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "68"
+      }
+    ]
+  },
+  {
+    "name": "IL - Communications Festival: Mar 21-24",
+    "url": "http://www.speechranks.com/2015/tournaments/view/954",
+    "state": "IL",
+    "date": "2015-03-21",
+    "date_raw": "Mar 21-24",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "17"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Expository flag",
+        "population": "17"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "11"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "28"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "15"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "4"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "11"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "22"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "10"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "20"
+      }
+    ]
+  },
+  {
+    "name": "IL - IL Qualifier: Mar 21-24",
+    "url": "http://www.speechranks.com/2015/tournaments/view/955",
+    "state": "IL",
+    "date": "2015-03-21",
+    "date_raw": "Mar 21-24",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "59"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "28"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "30"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "30"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "71"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "46"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "41"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "42"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "42"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "20"
+      }
+    ]
+  },
+  {
+    "name": "CA - Palm Saturday Parli: Mar 19",
+    "url": "http://www.speechranks.com/2015/tournaments/view/950",
+    "state": "CA",
+    "date": "2015-03-19",
+    "date_raw": "Mar 19",
+    "events": [
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "30"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "60"
+      }
+    ]
+  },
+  {
+    "name": "AZ - Camelback Classic: Mar 17-19",
+    "url": "http://www.speechranks.com/2015/tournaments/view/947",
+    "state": "AZ",
+    "date": "2015-03-17",
+    "date_raw": "Mar 17-19",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "29"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Expository flag",
+        "population": "8"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "22"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "15"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "24"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "45"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "11"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "9"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "29"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "10"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "41"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "41"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "11"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "22"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "9"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "18"
+      }
+    ]
+  },
+  {
+    "name": "GA - Southern Sizzlers Championship: Mar 17-19",
+    "url": "http://www.speechranks.com/2015/tournaments/view/949",
+    "state": "GA",
+    "date": "2015-03-17",
+    "date_raw": "Mar 17-19",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "29"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Expository flag",
+        "population": "3"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "18"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "10"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "24"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "3"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "9"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "15"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "18"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "20"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "20"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "21"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "42"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "21"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "42"
+      }
+    ]
+  },
+  {
+    "name": "OK - NCFCA OK National Open: Mar 16-19",
+    "url": "http://www.speechranks.com/2015/tournaments/view/951",
+    "state": "OK",
+    "date": "2015-03-16",
+    "date_raw": "Mar 16-19",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "90"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "45"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "58"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "70"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "49"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "28"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "94"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "96"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "82"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "70"
+      },
+      {
+        "name": "Original Interpretation flag",
+        "population": "48"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "62"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "86"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "86"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "76"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "152"
+      }
+    ]
+  },
+  {
+    "name": "MO - St. Louis Gateway Classic: Mar 16-19",
+    "url": "http://www.speechranks.com/2015/tournaments/view/945",
+    "state": "MO",
+    "date": "2015-03-16",
+    "date_raw": "Mar 16-19",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "15"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Expository flag",
+        "population": "8"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "17"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "11"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "20"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "4"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "16"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "11"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "10"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "20"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "20"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "11"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "22"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "12"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "24"
+      }
+    ]
+  },
+  {
+    "name": "IN - Columbus Invitational: Mar 11-12",
+    "url": "http://www.speechranks.com/2015/tournaments/view/966",
+    "state": "IN",
+    "date": "2015-03-11",
+    "date_raw": "Mar 11-12",
+    "events": [
+      {
+        "name": "Team Policy Debate flag",
+        "population": "23"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "46"
+      }
+    ]
+  },
+  {
+    "name": "AL - Flight of the Penguins: Mar 10-12",
+    "url": "http://www.speechranks.com/2015/tournaments/view/942",
+    "state": "AL",
+    "date": "2015-03-10",
+    "date_raw": "Mar 10-12",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "9"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Expository flag",
+        "population": "3"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "16"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "6"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "9"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "5"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "15"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "15"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "11"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "22"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "18"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "36"
+      },
+      {
+        "name": "Individual Policy Debate flag",
+        "population": "29"
+      },
+      {
+        "name": "Individual Policy Speaker flag",
+        "population": "29"
+      }
+    ]
+  },
+  {
+    "name": "TX - Allen North Qualifier: Mar  9-12",
+    "url": "http://www.speechranks.com/2015/tournaments/view/961",
+    "state": "TX",
+    "date": "2015-03-09",
+    "date_raw": "Mar  9-12",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "38"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "18"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "21"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "16"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "34"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "56"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "30"
+      }
+    ]
+  },
+  {
+    "name": "SC - Columbia Qualifier: Mar  9-12",
+    "url": "http://www.speechranks.com/2015/tournaments/view/953",
+    "state": "SC",
+    "date": "2015-03-09",
+    "date_raw": "Mar  9-12",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "36"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "28"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "24"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "14"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "36"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "17"
+      },
+      {
+        "name": "Original Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "20"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "33"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "33"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "32"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "64"
+      }
+    ]
+  },
+  {
+    "name": "CA - NCFCA CA National Open: Mar  9-12",
+    "url": "http://www.speechranks.com/2015/tournaments/view/948",
+    "state": "CA",
+    "date": "2015-03-09",
+    "date_raw": "Mar  9-12",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "58"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "12"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "33"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "9"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "40"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "64"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "32"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "20"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "22"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "32"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "32"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "33"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "66"
+      }
+    ]
+  },
+  {
+    "name": "OH - Cincinnati : Mar  6-9",
+    "url": "http://www.speechranks.com/2015/tournaments/view/946",
+    "state": "OH",
+    "date": "2015-03-06",
+    "date_raw": "Mar  6-9",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "45"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "23"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "22"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "21"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "23"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "55"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "29"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "39"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "31"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "31"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "39"
+      }
+    ]
+  },
+  {
+    "name": "TN - BREAKFAST: Mar  4",
+    "url": "http://www.speechranks.com/2015/tournaments/view/944",
+    "state": "TN",
+    "date": "2015-03-04",
+    "date_raw": "Mar  4",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "12"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "12"
+      }
+    ]
+  },
+  {
+    "name": "WA - Kitsap Classic: Mar  4-5",
+    "url": "http://www.speechranks.com/2015/tournaments/view/940",
+    "state": "WA",
+    "date": "2015-03-04",
+    "date_raw": "Mar  4-5",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "15"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Expository flag",
+        "population": "7"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "16"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "21"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "18"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "4"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "23"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "8"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "11"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "11"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "15"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "30"
+      }
+    ]
+  },
+  {
+    "name": "CA - Concordia Challenge: Mar  2-5",
+    "url": "http://www.speechranks.com/2015/tournaments/view/939",
+    "state": "CA",
+    "date": "2015-03-02",
+    "date_raw": "Mar  2-5",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "127"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "21"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "34"
+      },
+      {
+        "name": "Expository flag",
+        "population": "29"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "88"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "25"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "77"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "74"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "113"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "55"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "44"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "96"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "44"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "99"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "99"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "60"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "120"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "79"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "158"
+      }
+    ]
+  },
+  {
+    "name": "OK - Green Country Challenge: Mar  2-6",
+    "url": "http://www.speechranks.com/2015/tournaments/view/936",
+    "state": "OK",
+    "date": "2015-03-02",
+    "date_raw": "Mar  2-6",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "34"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Expository flag",
+        "population": "15"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "32"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "47"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "15"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "27"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "16"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "14"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "29"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "10"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "44"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "44"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "19"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "38"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "29"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "58"
+      }
+    ]
+  },
+  {
+    "name": "LA - Tiger Town Rumble: Mar  2-5",
+    "url": "http://www.speechranks.com/2015/tournaments/view/941",
+    "state": "LA",
+    "date": "2015-03-02",
+    "date_raw": "Mar  2-5",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "36"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "15"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "38"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "52"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "42"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "33"
+      },
+      {
+        "name": "Original Interpretation flag",
+        "population": "14"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "15"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "31"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "31"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "38"
+      }
+    ]
+  },
+  {
+    "name": "FL - Winter Park Qualifier: Mar  2-5",
+    "url": "http://www.speechranks.com/2015/tournaments/view/943",
+    "state": "FL",
+    "date": "2015-03-02",
+    "date_raw": "Mar  2-5",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "34"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "25"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "16"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "5"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "22"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "52"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "41"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "25"
+      },
+      {
+        "name": "Original Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "26"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "47"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "47"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "19"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "38"
+      }
+    ]
+  },
+  {
+    "name": "MD - Chesapeake Bay Challenge: Mar  1-4",
+    "url": "http://www.speechranks.com/2015/tournaments/view/938",
+    "state": "MD",
+    "date": "2015-03-01",
+    "date_raw": "Mar  1-4",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "31"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "20"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "56"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "50"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "28"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "18"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "27"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "15"
+      }
+    ]
+  },
+  {
+    "name": "PA - Spring into Penn's Woods: Feb 27",
+    "url": "http://www.speechranks.com/2015/tournaments/view/931",
+    "state": "PA",
+    "date": "2015-02-27",
+    "date_raw": "Feb 27",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "7"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "9"
+      },
+      {
+        "name": "Expository flag",
+        "population": "4"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "3"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "5"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "4"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "12"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "7"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "3"
+      }
+    ]
+  },
+  {
+    "name": "VA - Virginia Colonial Classic Speech: Feb 27",
+    "url": "http://www.speechranks.com/2015/tournaments/view/935",
+    "state": "VA",
+    "date": "2015-02-27",
+    "date_raw": "Feb 27",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "6"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Expository flag",
+        "population": "11"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "12"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "14"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "25"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "14"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "9"
+      }
+    ]
+  },
+  {
+    "name": "VA - Colonial Classic: Feb 26-27",
+    "url": "http://www.speechranks.com/2015/tournaments/view/933",
+    "state": "VA",
+    "date": "2015-02-26",
+    "date_raw": "Feb 26-27",
+    "events": [
+      {
+        "name": "Impromptu Apologetics flag",
+        "population": "14"
+      },
+      {
+        "name": "Dramatic Duo Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Expository/Illustrated Oratory flag",
+        "population": "6"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "32"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "7"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "27"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "54"
+      }
+    ]
+  },
+  {
+    "name": "CO - Centennial State: Feb 24-Mar 27",
+    "url": "http://www.speechranks.com/2015/tournaments/view/937",
+    "state": "CO",
+    "date": "2015-02-24",
+    "date_raw": "Feb 24-Mar 27",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "17"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "17"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "19"
+      },
+      {
+        "name": "Expository flag",
+        "population": "15"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "51"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "16"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "20"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "40"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "13"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "19"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "18"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "12"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "27"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "27"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "16"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "32"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "34"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "68"
+      }
+    ]
+  },
+  {
+    "name": "MO - Heart of the Ozarks: Feb 24-27",
+    "url": "http://www.speechranks.com/2015/tournaments/view/932",
+    "state": "MO",
+    "date": "2015-02-24",
+    "date_raw": "Feb 24-27",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "27"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "9"
+      },
+      {
+        "name": "Expository flag",
+        "population": "12"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "16"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "19"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "26"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "5"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "18"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "15"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "13"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "30"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "30"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "13"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "26"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "16"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "32"
+      }
+    ]
+  },
+  {
+    "name": "VA - Presidential Debate Days: Feb 19-20",
+    "url": "http://www.speechranks.com/2015/tournaments/view/927",
+    "state": "VA",
+    "date": "2015-02-19",
+    "date_raw": "Feb 19-20",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "10"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "10"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "15"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "30"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "14"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "28"
+      }
+    ]
+  },
+  {
+    "name": "WA - Speech Wars: Feb 19",
+    "url": "http://www.speechranks.com/2015/tournaments/view/924",
+    "state": "WA",
+    "date": "2015-02-19",
+    "date_raw": "Feb 19",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "21"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Expository flag",
+        "population": "12"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "11"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "21"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "21"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "10"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "17"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "11"
+      }
+    ]
+  },
+  {
+    "name": "MA - MA Qualifier: Feb 18-20",
+    "url": "http://www.speechranks.com/2015/tournaments/view/929",
+    "state": "MA",
+    "date": "2015-02-18",
+    "date_raw": "Feb 18-20",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "25"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "25"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "29"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "19"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "15"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "13"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "48"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "41"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "30"
+      },
+      {
+        "name": "Original Interpretation flag",
+        "population": "20"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "25"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "50"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "50"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "15"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "30"
+      }
+    ]
+  },
+  {
+    "name": "CA - Veni Vidi Vici: Feb 18-20",
+    "url": "http://www.speechranks.com/2015/tournaments/view/923",
+    "state": "CA",
+    "date": "2015-02-18",
+    "date_raw": "Feb 18-20",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "54"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Expository flag",
+        "population": "16"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "40"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "27"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "43"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "14"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "16"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "43"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "24"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "30"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "30"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "36"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "72"
+      }
+    ]
+  },
+  {
+    "name": "WA - Columbia River Qualifier: Feb 17-20",
+    "url": "http://www.speechranks.com/2015/tournaments/view/928",
+    "state": "WA",
+    "date": "2015-02-17",
+    "date_raw": "Feb 17-20",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "55"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "12"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "27"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "25"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "67"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "37"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "22"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "22"
+      }
+    ]
+  },
+  {
+    "name": "GA - Marietta Qualifier: Feb 17-20",
+    "url": "http://www.speechranks.com/2015/tournaments/view/930",
+    "state": "GA",
+    "date": "2015-02-17",
+    "date_raw": "Feb 17-20",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "13"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "24"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "14"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "24"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "11"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Original Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "14"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "28"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "28"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "18"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "36"
+      }
+    ]
+  },
+  {
+    "name": "TX - Spring District B Qualifier: Feb 17-20",
+    "url": "http://www.speechranks.com/2015/tournaments/view/952",
+    "state": "TX",
+    "date": "2015-02-17",
+    "date_raw": "Feb 17-20",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "55"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "16"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "31"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "24"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "42"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "56"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "46"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "30"
+      },
+      {
+        "name": "Original Interpretation flag",
+        "population": "17"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "24"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "35"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "35"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "38"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "76"
+      }
+    ]
+  },
+  {
+    "name": "FL - St. Pete Qualifier: Feb 17-20",
+    "url": "http://www.speechranks.com/2015/tournaments/view/926",
+    "state": "FL",
+    "date": "2015-02-17",
+    "date_raw": "Feb 17-20",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "36"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "25"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "25"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "56"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "39"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "29"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "51"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "51"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "15"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "30"
+      }
+    ]
+  },
+  {
+    "name": "CA - Sea Lion Skirmish: Feb 15",
+    "url": "http://www.speechranks.com/2015/tournaments/view/925",
+    "state": "CA",
+    "date": "2015-02-15",
+    "date_raw": "Feb 15",
+    "events": [
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "25"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "50"
+      }
+    ]
+  },
+  {
+    "name": "IL - Celebrate Lincoln: Feb 13",
+    "url": "http://www.speechranks.com/2015/tournaments/view/917",
+    "state": "IL",
+    "date": "2015-02-13",
+    "date_raw": "Feb 13",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "12"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Expository flag",
+        "population": "13"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "7"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "37"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "9"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "13"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "4"
+      }
+    ]
+  },
+  {
+    "name": "CA - Speak from the Heart: Feb 13",
+    "url": "http://www.speechranks.com/2015/tournaments/view/919",
+    "state": "CA",
+    "date": "2015-02-13",
+    "date_raw": "Feb 13",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "35"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Expository flag",
+        "population": "23"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "36"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "16"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "39"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "24"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "24"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "14"
+      }
+    ]
+  },
+  {
+    "name": "TX - Coastal Clash : Feb 12-13",
+    "url": "http://www.speechranks.com/2015/tournaments/view/915",
+    "state": "TX",
+    "date": "2015-02-12",
+    "date_raw": "Feb 12-13",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "10"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Expository flag",
+        "population": "11"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "8"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "21"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "11"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "8"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "10"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "9"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "18"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "10"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "20"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "20"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "8"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "16"
+      }
+    ]
+  },
+  {
+    "name": "OH - Hilliard Invitational: Feb 12-13",
+    "url": "http://www.speechranks.com/2015/tournaments/view/965",
+    "state": "OH",
+    "date": "2015-02-12",
+    "date_raw": "Feb 12-13",
+    "events": [
+      {
+        "name": "Team Policy Debate flag",
+        "population": "36"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "72"
+      }
+    ]
+  },
+  {
+    "name": "MS - Gulf Coast Qualifier: Feb 11-13",
+    "url": "http://www.speechranks.com/2015/tournaments/view/921",
+    "state": "MS",
+    "date": "2015-02-11",
+    "date_raw": "Feb 11-13",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "33"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "16"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "29"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "56"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "31"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "20"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "20"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "46"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "92"
+      }
+    ]
+  },
+  {
+    "name": "HI - Spring in Paradise: Feb 11-13",
+    "url": "http://www.speechranks.com/2015/tournaments/view/920",
+    "state": "HI",
+    "date": "2015-02-11",
+    "date_raw": "Feb 11-13",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "3"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Expository flag",
+        "population": "4"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "9"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "16"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "11"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "16"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "4"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "5"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "9"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "18"
+      }
+    ]
+  },
+  {
+    "name": "WI - Wisconsin Qualifier: Feb 11-13",
+    "url": "http://www.speechranks.com/2015/tournaments/view/918",
+    "state": "WI",
+    "date": "2015-02-11",
+    "date_raw": "Feb 11-13",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "37"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "22"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "30"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "24"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "28"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "17"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "56"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "46"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "30"
+      },
+      {
+        "name": "Original Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "23"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "33"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "33"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "30"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "60"
+      }
+    ]
+  },
+  {
+    "name": "AL - Three Rivers Qualifier : Feb  9-13",
+    "url": "http://www.speechranks.com/2015/tournaments/view/978",
+    "state": "AL",
+    "date": "2015-02-09",
+    "date_raw": "Feb  9-13",
+    "events": [
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "12"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "32"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "19"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "24"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "17"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "29"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "29"
+      }
+    ]
+  },
+  {
+    "name": "TX - Wylie Qualifier: Feb  9-12",
+    "url": "http://www.speechranks.com/2015/tournaments/view/916",
+    "state": "TX",
+    "date": "2015-02-09",
+    "date_raw": "Feb  9-12",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "38"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "17"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "20"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "21"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "11"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "41"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "56"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "37"
+      },
+      {
+        "name": "Original Interpretation flag",
+        "population": "9"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "30"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "28"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "28"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "45"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "90"
+      }
+    ]
+  },
+  {
+    "name": "VA - Groundhog Classic Speech: Feb  6",
+    "url": "http://www.speechranks.com/2015/tournaments/view/913",
+    "state": "VA",
+    "date": "2015-02-06",
+    "date_raw": "Feb  6",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "6"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Expository flag",
+        "population": "19"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "14"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "11"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "18"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "30"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "12"
+      }
+    ]
+  },
+  {
+    "name": "TN - Ambassadors for Christ: Feb  4-6",
+    "url": "http://www.speechranks.com/2015/tournaments/view/911",
+    "state": "TN",
+    "date": "2015-02-04",
+    "date_raw": "Feb  4-6",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "30"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Expository flag",
+        "population": "10"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "24"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "16"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "21"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "8"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "16"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "11"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "29"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "29"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "27"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "54"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "14"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "28"
+      },
+      {
+        "name": "Individual Policy Debate flag",
+        "population": "11"
+      },
+      {
+        "name": "Individual Policy Speaker flag",
+        "population": "11"
+      }
+    ]
+  },
+  {
+    "name": "MN - Freeze Your Phrases Qualifier: Feb  3-6",
+    "url": "http://www.speechranks.com/2015/tournaments/view/910",
+    "state": "MN",
+    "date": "2015-02-03",
+    "date_raw": "Feb  3-6",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "6"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "9"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "3"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "22"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "14"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "20"
+      },
+      {
+        "name": "Original Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "9"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "11"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "11"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "16"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "32"
+      }
+    ]
+  },
+  {
+    "name": "CA - Inland Club Challenge: Feb  3-6",
+    "url": "http://www.speechranks.com/2015/tournaments/view/909",
+    "state": "CA",
+    "date": "2015-02-03",
+    "date_raw": "Feb  3-6",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "115"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "18"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "31"
+      },
+      {
+        "name": "Expository flag",
+        "population": "29"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "106"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "24"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "70"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "67"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "108"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "45"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "44"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "103"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "35"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "98"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "98"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "56"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "112"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "77"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "154"
+      }
+    ]
+  },
+  {
+    "name": "WA - Inland Northwest Qualifier: Feb  3-6",
+    "url": "http://www.speechranks.com/2015/tournaments/view/912",
+    "state": "WA",
+    "date": "2015-02-03",
+    "date_raw": "Feb  3-6",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "31"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "20"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "15"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "15"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "17"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "48"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "48"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "21"
+      },
+      {
+        "name": "Original Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "19"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "14"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "14"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "36"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "72"
+      }
+    ]
+  },
+  {
+    "name": "HI - Hawaii Parli Championships: Jan 30",
+    "url": "http://www.speechranks.com/2015/tournaments/view/908",
+    "state": "HI",
+    "date": "2015-01-30",
+    "date_raw": "Jan 30",
+    "events": [
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "7"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "14"
+      }
+    ]
+  },
+  {
+    "name": "CO - SWord Challenge: Jan 30",
+    "url": "http://www.speechranks.com/2015/tournaments/view/906",
+    "state": "CO",
+    "date": "2015-01-30",
+    "date_raw": "Jan 30",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "13"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "15"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "17"
+      },
+      {
+        "name": "Expository flag",
+        "population": "10"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "26"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "11"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "29"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "13"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "12"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "15"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "6"
+      }
+    ]
+  },
+  {
+    "name": "TX - Texas Bluebonnet: Jan 29",
+    "url": "http://www.speechranks.com/2015/tournaments/view/904",
+    "state": "TX",
+    "date": "2015-01-29",
+    "date_raw": "Jan 29",
+    "events": [
+      {
+        "name": "Team Policy Debate flag",
+        "population": "9"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "18"
+      }
+    ]
+  },
+  {
+    "name": "VA - Winter Classic Debate: Jan 29-30",
+    "url": "http://www.speechranks.com/2015/tournaments/view/907",
+    "state": "VA",
+    "date": "2015-01-29",
+    "date_raw": "Jan 29-30",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "12"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "12"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "10"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "20"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "13"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "26"
+      }
+    ]
+  },
+  {
+    "name": "WA - Northern Lights Challenge: Jan 28-30",
+    "url": "http://www.speechranks.com/2015/tournaments/view/903",
+    "state": "WA",
+    "date": "2015-01-28",
+    "date_raw": "Jan 28-30",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "24"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "14"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Expository flag",
+        "population": "17"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "22"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "21"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "22"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "13"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "9"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "26"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "12"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "18"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "18"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "23"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "46"
+      }
+    ]
+  },
+  {
+    "name": "AR - Diamond Tournament: Jan 27-30",
+    "url": "http://www.speechranks.com/2015/tournaments/view/889",
+    "state": "AR",
+    "date": "2015-01-27",
+    "date_raw": "Jan 27-30",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "43"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "20"
+      },
+      {
+        "name": "Expository flag",
+        "population": "33"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "42"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "14"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "30"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "45"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "17"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "21"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "41"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "21"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "56"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "56"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "29"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "58"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "45"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "90"
+      }
+    ]
+  },
+  {
+    "name": "NC - North Carolina National Open: Jan 27-30",
+    "url": "http://www.speechranks.com/2015/tournaments/view/905",
+    "state": "NC",
+    "date": "2015-01-27",
+    "date_raw": "Jan 27-30",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "117"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "75"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "47"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "102"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "128"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "90"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "70"
+      },
+      {
+        "name": "Original Interpretation flag",
+        "population": "27"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "80"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "98"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "98"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "100"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "200"
+      }
+    ]
+  },
+  {
+    "name": "GA - EAGLES Soars: Jan 23",
+    "url": "http://www.speechranks.com/2015/tournaments/view/902",
+    "state": "GA",
+    "date": "2015-01-23",
+    "date_raw": "Jan 23",
+    "events": [
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "10"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "20"
+      }
+    ]
+  },
+  {
+    "name": "GA - Fast and Furious: Jan 22",
+    "url": "http://www.speechranks.com/2015/tournaments/view/901",
+    "state": "GA",
+    "date": "2015-01-22",
+    "date_raw": "Jan 22",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "17"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "17"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "23"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "46"
+      }
+    ]
+  },
+  {
+    "name": "CA - The Desert Gem: Jan 21-23",
+    "url": "http://www.speechranks.com/2015/tournaments/view/899",
+    "state": "CA",
+    "date": "2015-01-21",
+    "date_raw": "Jan 21-23",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "64"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Expository flag",
+        "population": "14"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "23"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "39"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "17"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "15"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "36"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "16"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "15"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "30"
+      }
+    ]
+  },
+  {
+    "name": "KY - Louisville Qualifier: Jan 18-21",
+    "url": "http://www.speechranks.com/2015/tournaments/view/900",
+    "state": "KY",
+    "date": "2015-01-18",
+    "date_raw": "Jan 18-21",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "39"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "17"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "17"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "46"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "30"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "15"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "29"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "23"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "23"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "36"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "72"
+      }
+    ]
+  },
+  {
+    "name": "CA - A Ready Response: Jan 15-16",
+    "url": "http://www.speechranks.com/2015/tournaments/view/895",
+    "state": "CA",
+    "date": "2015-01-15",
+    "date_raw": "Jan 15-16",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "39"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "12"
+      },
+      {
+        "name": "Expository flag",
+        "population": "25"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "44"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "27"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "19"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "57"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "17"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "15"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "36"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "15"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "76"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "152"
+      }
+    ]
+  },
+  {
+    "name": "TX - Brenham - All Region: Jan 14-16",
+    "url": "http://www.speechranks.com/2015/tournaments/view/898",
+    "state": "TX",
+    "date": "2015-01-14",
+    "date_raw": "Jan 14-16",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "79"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "16"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "45"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "35"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "25"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "72"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "117"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "58"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "42"
+      },
+      {
+        "name": "Original Interpretation flag",
+        "population": "17"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "44"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "56"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "72"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "144"
+      }
+    ]
+  },
+  {
+    "name": "TX - Go Light Your World : Jan 14-16",
+    "url": "http://www.speechranks.com/2015/tournaments/view/885",
+    "state": "TX",
+    "date": "2015-01-14",
+    "date_raw": "Jan 14-16",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "39"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Expository flag",
+        "population": "18"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "32"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "18"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "21"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "18"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "23"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "18"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "61"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "61"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "22"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "44"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "27"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "54"
+      }
+    ]
+  },
+  {
+    "name": "AL - Penguin Parade: Jan 14-16",
+    "url": "http://www.speechranks.com/2015/tournaments/view/894",
+    "state": "AL",
+    "date": "2015-01-14",
+    "date_raw": "Jan 14-16",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "10"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "14"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "5"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "7"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "7"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "7"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "7"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "14"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "11"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "22"
+      },
+      {
+        "name": "Individual Policy Debate flag",
+        "population": "33"
+      },
+      {
+        "name": "Individual Policy Speaker flag",
+        "population": "33"
+      }
+    ]
+  },
+  {
+    "name": "MO - Kansas City Qualifier: Jan 13-16",
+    "url": "http://www.speechranks.com/2015/tournaments/view/892",
+    "state": "MO",
+    "date": "2015-01-13",
+    "date_raw": "Jan 13-16",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "22"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "14"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "7"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "6"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "24"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "19"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "16"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "34"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "34"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "19"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "38"
+      }
+    ]
+  },
+  {
+    "name": "WA - Olympic Qualifier: Jan 13-16",
+    "url": "http://www.speechranks.com/2015/tournaments/view/891",
+    "state": "WA",
+    "date": "2015-01-13",
+    "date_raw": "Jan 13-16",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "59"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "24"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "27"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "25"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "56"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "48"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "24"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "18"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "18"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "49"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "98"
+      }
+    ]
+  },
+  {
+    "name": "UT - Salt Lake Qualifier : Jan 13-16",
+    "url": "http://www.speechranks.com/2015/tournaments/view/890",
+    "state": "UT",
+    "date": "2015-01-13",
+    "date_raw": "Jan 13-16",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "26"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "14"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "3"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "6"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "25"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "9"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "11"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "15"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "15"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "9"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "18"
+      }
+    ]
+  },
+  {
+    "name": "CT - SHINE Qualifier: Jan 13-16",
+    "url": "http://www.speechranks.com/2015/tournaments/view/893",
+    "state": "CT",
+    "date": "2015-01-13",
+    "date_raw": "Jan 13-16",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "33"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "14"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "28"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "20"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "12"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "16"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "48"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "37"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "36"
+      },
+      {
+        "name": "Original Interpretation flag",
+        "population": "15"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "32"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "46"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "46"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "29"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "58"
+      }
+    ]
+  },
+  {
+    "name": "FL - Boca Raton Qualifier: Jan  7-9",
+    "url": "http://www.speechranks.com/2015/tournaments/view/888",
+    "state": "FL",
+    "date": "2015-01-07",
+    "date_raw": "Jan  7-9",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "42"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "22"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "14"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "5"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "25"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "56"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "37"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "28"
+      },
+      {
+        "name": "Original Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "24"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "60"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "60"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "18"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "36"
+      }
+    ]
+  },
+  {
+    "name": "TN - Music City Marvel: Jan  7-9",
+    "url": "http://www.speechranks.com/2015/tournaments/view/884",
+    "state": "TN",
+    "date": "2015-01-07",
+    "date_raw": "Jan  7-9",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "24"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Expository flag",
+        "population": "9"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "14"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "17"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "20"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "3"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "8"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "12"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "23"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "23"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "19"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "38"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "13"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "26"
+      },
+      {
+        "name": "Individual Policy Debate flag",
+        "population": "7"
+      },
+      {
+        "name": "Individual Policy Speaker flag",
+        "population": "7"
+      }
+    ]
+  },
+  {
+    "name": "CA - Point Loma Classic: Jan  7-9",
+    "url": "http://www.speechranks.com/2015/tournaments/view/882",
+    "state": "CA",
+    "date": "2015-01-07",
+    "date_raw": "Jan  7-9",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "106"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "12"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "33"
+      },
+      {
+        "name": "Expository flag",
+        "population": "30"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "79"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "17"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "56"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "49"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "94"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "27"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "29"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "70"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "34"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "90"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "90"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "41"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "82"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "74"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "148"
+      }
+    ]
+  },
+  {
+    "name": "WI - Wisconsin National Open: Jan  7-9",
+    "url": "http://www.speechranks.com/2015/tournaments/view/887",
+    "state": "WI",
+    "date": "2015-01-07",
+    "date_raw": "Jan  7-9",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "66"
+      },
+      {
+        "name": "Bible Presentation/Interpretation flag",
+        "population": "33"
+      },
+      {
+        "name": "Biographical Informative/Narrative flag",
+        "population": "50"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "33"
+      },
+      {
+        "name": "Illustrated Oratory flag",
+        "population": "30"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "48"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "80"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "57"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "54"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "47"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "54"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "54"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "60"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "120"
+      }
+    ]
+  },
+  {
+    "name": "VA - Beach Breakers: Jan  6-9",
+    "url": "http://www.speechranks.com/2015/tournaments/view/886",
+    "state": "VA",
+    "date": "2015-01-06",
+    "date_raw": "Jan  6-9",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "40"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "30"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "48"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "33"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "35"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "35"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "23"
+      }
+    ]
+  },
+  {
+    "name": "CO - MHQ: Jan  6-9",
+    "url": "http://www.speechranks.com/2015/tournaments/view/883",
+    "state": "CO",
+    "date": "2015-01-06",
+    "date_raw": "Jan  6-9",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "20"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "12"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "16"
+      },
+      {
+        "name": "Expository flag",
+        "population": "12"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "43"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "14"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "19"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "29"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "14"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "15"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "10"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "25"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "25"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "12"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "24"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "29"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "58"
+      }
+    ]
+  },
+  {
+    "name": "WA - Reindeer Showdown: Dec 19",
+    "url": "http://www.speechranks.com/2015/tournaments/view/880",
+    "state": "WA",
+    "date": "2015-12-19",
+    "date_raw": "Dec 19",
+    "events": [
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "11"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "22"
+      }
+    ]
+  },
+  {
+    "name": "TX - Wintertime Classic: Dec 18-19",
+    "url": "http://www.speechranks.com/2015/tournaments/view/879",
+    "state": "TX",
+    "date": "2015-12-18",
+    "date_raw": "Dec 18-19",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "21"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "21"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "17"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "34"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "14"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "28"
+      }
+    ]
+  },
+  {
+    "name": "CA - Christmas Colloquium: Dec 12",
+    "url": "http://www.speechranks.com/2015/tournaments/view/878",
+    "state": "CA",
+    "date": "2015-12-12",
+    "date_raw": "Dec 12",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "61"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "16"
+      },
+      {
+        "name": "Expository flag",
+        "population": "11"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "16"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "31"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "41"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "18"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "14"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "40"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "20"
+      }
+    ]
+  },
+  {
+    "name": "VA - Holiday Cheer Speech: Dec 12",
+    "url": "http://www.speechranks.com/2015/tournaments/view/881",
+    "state": "VA",
+    "date": "2015-12-12",
+    "date_raw": "Dec 12",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "3"
+      },
+      {
+        "name": "Expository flag",
+        "population": "10"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "13"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "7"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "14"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "10"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "7"
+      }
+    ]
+  },
+  {
+    "name": "CA - Christmas Clash: Dec  5",
+    "url": "http://www.speechranks.com/2015/tournaments/view/874",
+    "state": "CA",
+    "date": "2015-12-05",
+    "date_raw": "Dec  5",
+    "events": [
+      {
+        "name": "Team Policy Debate flag",
+        "population": "76"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "152"
+      }
+    ]
+  },
+  {
+    "name": "PA - FOCUS: Dec  5",
+    "url": "http://www.speechranks.com/2015/tournaments/view/875",
+    "state": "PA",
+    "date": "2015-12-05",
+    "date_raw": "Dec  5",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "7"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "6"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "19"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "12"
+      }
+    ]
+  },
+  {
+    "name": "MN - Heartland Speech Practice: Dec  5",
+    "url": "http://www.speechranks.com/2015/tournaments/view/986",
+    "state": "MN",
+    "date": "2015-12-05",
+    "date_raw": "Dec  5",
+    "events": [
+      {
+        "name": "Extemporaneous flag",
+        "population": "2"
+      },
+      {
+        "name": "Informative Speaking flag",
+        "population": "7"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "6"
+      }
+    ]
+  },
+  {
+    "name": "MO - Debate in December: Dec  4",
+    "url": "http://www.speechranks.com/2015/tournaments/view/872",
+    "state": "MO",
+    "date": "2015-12-04",
+    "date_raw": "Dec  4",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "21"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "21"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "7"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "14"
+      }
+    ]
+  },
+  {
+    "name": "FL - December Freeze: Dec  3-5",
+    "url": "http://www.speechranks.com/2015/tournaments/view/877",
+    "state": "FL",
+    "date": "2015-12-03",
+    "date_raw": "Dec  3-5",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "16"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "15"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "21"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "6"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "8"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "11"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "12"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "28"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "28"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "18"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "36"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "7"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "14"
+      }
+    ]
+  },
+  {
+    "name": "AZ - Cactus Clash: Nov 20-21",
+    "url": "http://www.speechranks.com/2015/tournaments/view/870",
+    "state": "AZ",
+    "date": "2015-11-20",
+    "date_raw": "Nov 20-21",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "34"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "25"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "17"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "28"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "37"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "37"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "11"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "22"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "10"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "20"
+      }
+    ]
+  },
+  {
+    "name": "TX - Stoa South Prologue: Nov 20-21",
+    "url": "http://www.speechranks.com/2015/tournaments/view/868",
+    "state": "TX",
+    "date": "2015-11-20",
+    "date_raw": "Nov 20-21",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "41"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "14"
+      },
+      {
+        "name": "Expository flag",
+        "population": "25"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "38"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "36"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "25"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "35"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "19"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "16"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "25"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "19"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "64"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "64"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "32"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "64"
+      }
+    ]
+  },
+  {
+    "name": "HI - Winter Opener in Paradise: Nov 19-21",
+    "url": "http://www.speechranks.com/2015/tournaments/view/876",
+    "state": "HI",
+    "date": "2015-11-19",
+    "date_raw": "Nov 19-21",
+    "events": [
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Expository flag",
+        "population": "4"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "7"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "15"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "8"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "12"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "3"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "3"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "9"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "18"
+      }
+    ]
+  },
+  {
+    "name": "CA - Santa Rosa Classic: Nov 14",
+    "url": "http://www.speechranks.com/2015/tournaments/view/866",
+    "state": "CA",
+    "date": "2015-11-14",
+    "date_raw": "Nov 14",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "27"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "27"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "52"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "104"
+      }
+    ]
+  },
+  {
+    "name": "IL - Charge Up: Nov 13-14",
+    "url": "http://www.speechranks.com/2015/tournaments/view/867",
+    "state": "IL",
+    "date": "2015-11-13",
+    "date_raw": "Nov 13-14",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "9"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Expository flag",
+        "population": "9"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "7"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "20"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "10"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "8"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "16"
+      }
+    ]
+  },
+  {
+    "name": "VA - Fall Into Debate: Nov 13-14",
+    "url": "http://www.speechranks.com/2015/tournaments/view/871",
+    "state": "VA",
+    "date": "2015-11-13",
+    "date_raw": "Nov 13-14",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "10"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "10"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "10"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "20"
+      }
+    ]
+  },
+  {
+    "name": "AL - Penguin Dash: Nov 13",
+    "url": "http://www.speechranks.com/2015/tournaments/view/865",
+    "state": "AL",
+    "date": "2015-11-13",
+    "date_raw": "Nov 13",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "3"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "6"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "2"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "2"
+      },
+      {
+        "name": "Individual Policy Debate flag",
+        "population": "20"
+      },
+      {
+        "name": "Individual Policy Speaker flag",
+        "population": "20"
+      }
+    ]
+  },
+  {
+    "name": "CO - Resolve Early Tournament: Nov 12-14",
+    "url": "http://www.speechranks.com/2015/tournaments/view/869",
+    "state": "CO",
+    "date": "2015-11-12",
+    "date_raw": "Nov 12-14",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "21"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "30"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "13"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "13"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "22"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "22"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "10"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "20"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "19"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "38"
+      }
+    ]
+  },
+  {
+    "name": "GA - Southern Sizzlers Fall: Nov 12-14",
+    "url": "http://www.speechranks.com/2015/tournaments/view/864",
+    "state": "GA",
+    "date": "2015-11-12",
+    "date_raw": "Nov 12-14",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "30"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Expository flag",
+        "population": "1"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "23"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "32"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "23"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "18"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "19"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "16"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "24"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "24"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "22"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "44"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "22"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "44"
+      }
+    ]
+  },
+  {
+    "name": "WA - Torchlight: Nov 12-14",
+    "url": "http://www.speechranks.com/2015/tournaments/view/860",
+    "state": "WA",
+    "date": "2015-11-12",
+    "date_raw": "Nov 12-14",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "22"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Expository flag",
+        "population": "8"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "16"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "16"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "13"
+      },
+      {
+        "name": "Motivational Speaking flag",
+        "population": "7"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "21"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "6"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "17"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "17"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "18"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "36"
+      }
+    ]
+  },
+  {
+    "name": "CA - Veritas Veterans Day Challenge: Nov 11",
+    "url": "http://www.speechranks.com/2015/tournaments/view/863",
+    "state": "CA",
+    "date": "2015-11-11",
+    "date_raw": "Nov 11",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "86"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "86"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "32"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "64"
+      }
+    ]
+  },
+  {
+    "name": "MO - KC Animi LD Kickoff: Nov 10",
+    "url": "http://www.speechranks.com/2015/tournaments/view/862",
+    "state": "MO",
+    "date": "2015-11-10",
+    "date_raw": "Nov 10",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "14"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "14"
+      }
+    ]
+  },
+  {
+    "name": "CA - Central Valley Parli Opener: Nov  7",
+    "url": "http://www.speechranks.com/2015/tournaments/view/859",
+    "state": "CA",
+    "date": "2015-11-07",
+    "date_raw": "Nov  7",
+    "events": [
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "20"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "40"
+      }
+    ]
+  },
+  {
+    "name": "WA - Lake Washington Showdown: Nov  6",
+    "url": "http://www.speechranks.com/2015/tournaments/view/858",
+    "state": "WA",
+    "date": "2015-11-06",
+    "date_raw": "Nov  6",
+    "events": [
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "12"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "24"
+      }
+    ]
+  },
+  {
+    "name": "AR - Rising Eagles Autumnfest: Nov  6-7",
+    "url": "http://www.speechranks.com/2015/tournaments/view/856",
+    "state": "AR",
+    "date": "2015-11-06",
+    "date_raw": "Nov  6-7",
+    "events": [
+      {
+        "name": "Duo Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Expository flag",
+        "population": "11"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "25"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "7"
+      },
+      {
+        "name": "Monologue flag",
+        "population": "16"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "16"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "19"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "19"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "14"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "28"
+      }
+    ]
+  },
+  {
+    "name": "TX - Rivercity Rumble: Oct 30-31",
+    "url": "http://www.speechranks.com/2015/tournaments/view/857",
+    "state": "TX",
+    "date": "2015-10-30",
+    "date_raw": "Oct 30-31",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "18"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "18"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "12"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "24"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "12"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "24"
+      }
+    ]
+  },
+  {
+    "name": "CA - California Kick-Off: Oct 24",
+    "url": "http://www.speechranks.com/2015/tournaments/view/854",
+    "state": "CA",
+    "date": "2015-10-24",
+    "date_raw": "Oct 24",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "22"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "22"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "57"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "114"
+      }
+    ]
+  },
+  {
+    "name": "IL - Windy City Warmup: Oct 23-24",
+    "url": "http://www.speechranks.com/2015/tournaments/view/855",
+    "state": "IL",
+    "date": "2015-10-23",
+    "date_raw": "Oct 23-24",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "6"
+      },
+      {
+        "name": "Expository flag",
+        "population": "5"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "9"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "22"
+      },
+      {
+        "name": "Individual Policy Debate flag",
+        "population": "14"
+      },
+      {
+        "name": "Individual Policy Speaker flag",
+        "population": "14"
+      }
+    ]
+  },
+  {
+    "name": "AZ - Coyote Kickoff: Oct 16-17",
+    "url": "http://www.speechranks.com/2015/tournaments/view/853",
+    "state": "AZ",
+    "date": "2015-10-16",
+    "date_raw": "Oct 16-17",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "24"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "23"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "32"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "20"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "26"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "26"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "10"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "20"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "13"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "26"
+      }
+    ]
+  },
+  {
+    "name": "TN - Cray Cray Parle: Oct 16",
+    "url": "http://www.speechranks.com/2015/tournaments/view/852",
+    "state": "TN",
+    "date": "2015-10-16",
+    "date_raw": "Oct 16",
+    "events": [
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "16"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "32"
+      }
+    ]
+  },
+  {
+    "name": "FL - Season Intro: Oct  9-10",
+    "url": "http://www.speechranks.com/2015/tournaments/view/851",
+    "state": "FL",
+    "date": "2015-10-09",
+    "date_raw": "Oct  9-10",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "10"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "14"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "18"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "10"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "10"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "10"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "10"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "20"
+      }
+    ]
+  },
+  {
+    "name": "WA - Into the Woods: Oct  3",
+    "url": "http://www.speechranks.com/2015/tournaments/view/850",
+    "state": "WA",
+    "date": "2015-10-03",
+    "date_raw": "Oct  3",
+    "events": [
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "13"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "26"
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Matchup - Speechranks 2</title>
+    <link rel="stylesheet" type="text/css" href="../styles.css?v=1.0"> 
+    <link rel="stylesheet" type="text/css" href="matchup.css?v=1.0">  
+    <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Calibri&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="banner">
+            <div class="banner-content">
+                <div class="left-side">
+                    <h1>Matchup</h1>
+                    <p class="subtitle">Speechranks 2</p>
+                </div>
+                <div class="center">
+                    <a href="../index.html">
+                        <img src="../images/default.png" alt="Site Logo" class="logo-placeholder">
+                    </a>
+                </div>
+                <div class="right-side">
+                    <button onclick="window.location.href='../index.html'" style="margin-right: 10px;">Home</button>
+                    <button onclick="window.location.href='../tournament/tournament-simulator.html'" style="margin-right: 10px;">Simulator</button>
+                    <button id="aboutBtnMatchup">About</button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container" id="matchupContainer">
+            <div class="left-panel" id="matchupLeftPanel">
+                <label for="team1SearchInput" class="search-label">Team 1</label>
+                <div class="controls-row">
+                    <div class="year-selector">
+                        <select id="team1YearSelect">
+                            <option value="">Select Year</option>
+                        </select>
+                    </div>
+                    <div class="search-container">
+                        <input type="text" id="team1SearchInput" placeholder="Search teams..." class="search-bar">
+                    </div>
+                </div>
+                <div id="team1Results" class="table-container"></div>
+                <div id="selectedTeam1StatsContainer" class="selected-team-info" style="display: none;"></div>
+            </div>
+            <div class="right-panel" id="matchupRightPanel">
+                <label for="team2SearchInput" class="search-label">Team 2</label>
+                <div class="controls-row">
+                    <div class="year-selector">
+                        <select id="team2YearSelect">
+                            <option value="">Select Year</option>
+                        </select>
+                    </div>
+                    <div class="search-container">
+                        <input type="text" id="team2SearchInput" placeholder="Search teams..." class="search-bar">
+                    </div>
+                </div>
+                <div id="team2Results" class="table-container"></div>
+                <div id="selectedTeam2StatsContainer" class="selected-team-info" style="display: none;"></div>
+            </div>
+        </div>
+    </main>
+
+    <div id="aboutModalMatchup" class="modal">
+        <div class="modal-content">
+            <span class="closeMatchup">&times;</span>
+            <h2>About This Site</h2>
+            <p>Speechranks is poorly designed for debaters seeking actionable insights.
+                I created Speechranks 2 to give debaters full access to all available data.
+            </p>
+        </div>
+    </div>
+
+    <script src="matchup.js?v=1.0"></script>
+</body>
+</html> 
