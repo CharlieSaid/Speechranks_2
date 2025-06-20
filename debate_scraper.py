@@ -183,17 +183,25 @@ def scrape_debater_profile(url):
 # Team Data Scraping
 ###########################################
 
-def scrape_debate_page(entry_id):
+def scrape_debate_page(entry_id, start_id=None, end_id=None):
     """
     Scrapes a team's debate page to collect team information
     
     Args:
         entry_id (int): Team's unique identifier
+        start_id (int, optional): Starting ID for percentage calculation
+        end_id (int, optional): Ending ID for percentage calculation
     Returns:
         dict: Complete team data including debater profiles and tournament history
     """
     url = f"{BASE_URL}/profile/entry/{entry_id}"
     global consecutive_404_count
+    
+    # Calculate percentage if start and end IDs are provided
+    percentage_str = ""
+    if start_id is not None and end_id is not None and end_id > start_id:
+        progress = (entry_id - start_id) / (end_id - start_id) * 100
+        percentage_str = f" ({progress:.1f}%)"
     
     try:
         response = requests.get(url, headers=BROWSER_HEADERS)
@@ -209,10 +217,10 @@ def scrape_debate_page(entry_id):
         page_title = body_div.find('h1')
 
         if 'Team Policy Debate' not in page_title.text:
-            print(f"ID {entry_id} not TP")
+            print(f"ID {entry_id}{percentage_str} not TP ({page_title.text})")
             return None
         else:
-            print(f"ID {entry_id} is TP - Proceeding")
+            print(f"ID {entry_id}{percentage_str} is TP - Proceeding")
 
         # Initialize team data structure
         team_data = {
@@ -333,7 +341,7 @@ def scrape_year(target_year):
             print(f"\nStopping early: {MAX_CONSECUTIVE_404s} consecutive 404 errors")
             break
         
-        if team_data := scrape_debate_page(entry_id):
+        if team_data := scrape_debate_page(entry_id, start_id, end_id):
             teams_data.append(team_data)
     
     # Save year data
@@ -371,12 +379,15 @@ def scrape_range(start_id, end_id):
     
     # Scrape IDs in the specified range
     for entry_id in range(start_id, end_id):
-        team_data = scrape_debate_page(entry_id)
+        team_data = scrape_debate_page(entry_id, start_id, end_id)
         if team_data:
             teams_data.append(team_data)
-            print(f"Finished scraping team at ID {entry_id}")
+            # Calculate percentage for successful scrapes
+            progress = (entry_id - start_id) / (end_id - start_id) * 100
+            print(f"Finished scraping team at ID {entry_id} ({progress:.1f}%)")
         else:
-            print(f"No team found at ID {entry_id}")
+            # Percentage is already shown in scrape_debate_page for unsuccessful attempts
+            pass
     
     # Save collected data to testing file
     with open('testing_data.json', 'w', encoding='utf-8') as f:

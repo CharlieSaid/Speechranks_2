@@ -46,3 +46,12 @@ Critical resources for how I got this working:
  - CloudFront to serve the website.
  - S3 to store the website.
  - Needed a CNAME record for the domain name to point to the CloudFront distribution.  Once this is acquired, there is an option to automatically create a certificate for the domain name in Route 53.
+
+
+NITOC Documents (recovered):
+ - NITOC 2018 cumulative: https://nitoc2018.homeschooldebate.net/assets/584/tp-prelim-results.pdf
+ - NITOC 2024 cumulative: https://nitoc2024.homeschooldebate.net/assets/2169/nitoc-2024-tp-cum-file.pdf
+ - NITOC 2019 cumulative: https://nitoc2019.homeschooldebate.net/assets/644/nitoc2019-tp-tpxhy.pdf
+ https://nitoc2017.homeschooldebate.net/assets/528/tp-nitoc2017-prelim-cumes.pdf
+ https://nitoc2014.homeschooldebate.net/assets/380/nitoc14-tp-cumes-1.pdf
+ 

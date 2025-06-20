@@ -65,6 +65,6 @@ def update_years(years_to_scrape):
 
 if __name__ == "__main__":
     
-    target_years = ['2022']
+    target_years = ['2025']
     
     update_years(target_years)
