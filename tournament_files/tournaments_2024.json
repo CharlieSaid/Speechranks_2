@@ -1,22 +1,929 @@
 [
   {
-    "name": "NC - All American Classic: Feb 13-15",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1863",
-    "state": "NC",
-    "date": "2024-02-13",
-    "date_raw": "Feb 13-15",
-    "events": []
-  },
-  {
-    "name": "AR - Arkansas Diamond: Jan 23-25",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1864",
-    "state": "AR",
-    "date": "2024-01-23",
-    "date_raw": "Jan 23-25",
+    "name": "TN - National Invitational Tournament of Champions: May 26-Jun  1",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1824",
+    "state": "TN",
+    "date": "2024-05-26",
     "events": [
       {
         "name": "Apologetics flag",
-        "population": "61"
+        "population": "207"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "41"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "52"
+      },
+      {
+        "name": "Expository flag",
+        "population": "41"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "131"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "42"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "261"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "40"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "98"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "83"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "154"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "99"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "186"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "186"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "108"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "216"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "121"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "242"
+      }
+    ]
+  },
+  {
+    "name": "CA - The Last Go!: Apr 30",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1813",
+    "state": "CA",
+    "date": "2024-04-30",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "13"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "13"
+      }
+    ]
+  },
+  {
+    "name": "TX - The Last Rodeo: Apr 29",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1823",
+    "state": "TX",
+    "date": "2024-04-29",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "47"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "47"
+      }
+    ]
+  },
+  {
+    "name": "GA - The Checkered Flag: Apr 26-27",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1804",
+    "state": "GA",
+    "date": "2024-04-26",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "12"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "12"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "10"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "20"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "11"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "22"
+      }
+    ]
+  },
+  {
+    "name": "AR - The Pen and the Sword: Apr 26-27",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1817",
+    "state": "AR",
+    "date": "2024-04-26",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "14"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Expository flag",
+        "population": "4"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "15"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "46"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "6"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "9"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "22"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "9"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "12"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "24"
+      }
+    ]
+  },
+  {
+    "name": "CA - Last Act of Valor: Apr 25-27",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1822",
+    "state": "CA",
+    "date": "2024-04-25",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "68"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Expository flag",
+        "population": "7"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "39"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "79"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "3"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "32"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "35"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "17"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "45"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "45"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "24"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "48"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "20"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "40"
+      }
+    ]
+  },
+  {
+    "name": "AL - Penguin Celebration: Apr 25-27",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1816",
+    "state": "AL",
+    "date": "2024-04-25",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "13"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "8"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "27"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "6"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "10"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "8"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "19"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "19"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "13"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "26"
+      }
+    ]
+  },
+  {
+    "name": "AR - Siloam Sizzler: Apr 25",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1815",
+    "state": "AR",
+    "date": "2024-04-25",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "17"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "17"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "8"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "16"
+      }
+    ]
+  },
+  {
+    "name": "VA - Light at the End of the Tunnel: Apr 20",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1814",
+    "state": "VA",
+    "date": "2024-04-20",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "15"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Expository flag",
+        "population": "5"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "31"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "8"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "15"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "15"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "9"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "15"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "30"
+      }
+    ]
+  },
+  {
+    "name": "TX - Coastal Clash: Apr 18-20",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1811",
+    "state": "TX",
+    "date": "2024-04-18",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "18"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Expository flag",
+        "population": "3"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "7"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "40"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "7"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "29"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "12"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "30"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "30"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "14"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "28"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "8"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "16"
+      }
+    ]
+  },
+  {
+    "name": "WA - River City Rumble: Apr 17-20",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1812",
+    "state": "WA",
+    "date": "2024-04-17",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "54"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Expository flag",
+        "population": "10"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "21"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "52"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "9"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "20"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "14"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "24"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "20"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "46"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "46"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "20"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "40"
+      }
+    ]
+  },
+  {
+    "name": "CA - Inland Club Challenge: Apr 13",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1805",
+    "state": "CA",
+    "date": "2024-04-13",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "40"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "40"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "15"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "30"
+      }
+    ]
+  },
+  {
+    "name": "CA - NorCal Final Contender: Apr 13",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1810",
+    "state": "CA",
+    "date": "2024-04-13",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "22"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "14"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "40"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "4"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "5"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "9"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "27"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "10"
+      }
+    ]
+  },
+  {
+    "name": "CA - Aim to Elevate: Apr 12",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1807",
+    "state": "CA",
+    "date": "2024-04-12",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "25"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "25"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "28"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "56"
+      }
+    ]
+  },
+  {
+    "name": "VA - Cherry Blossom Challenge: Apr 11-13",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1806",
+    "state": "VA",
+    "date": "2024-04-11",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "48"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Expository flag",
+        "population": "6"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "32"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "48"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "19"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "31"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "24"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "44"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "29"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "33"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "33"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "37"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "74"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "25"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "50"
+      }
+    ]
+  },
+  {
+    "name": "CO - sWord Challenge: Apr 11-13",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1800",
+    "state": "CO",
+    "date": "2024-04-11",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "53"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "16"
+      },
+      {
+        "name": "Expository flag",
+        "population": "25"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "29"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "23"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "79"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "12"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "20"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "28"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "44"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "31"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "31"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "31"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "17"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "34"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "29"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "58"
+      }
+    ]
+  },
+  {
+    "name": "AR - The Arkansas Oak: Apr 10-13",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1809",
+    "state": "AR",
+    "date": "2024-04-10",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "58"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "14"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Expository flag",
+        "population": "15"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "55"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "97"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "14"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "25"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "27"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "48"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "30"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "55"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "55"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "29"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "58"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "25"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "50"
+      }
+    ]
+  },
+  {
+    "name": "MO - ARCH Madness: Apr  4-6",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1801",
+    "state": "MO",
+    "date": "2024-04-04",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "71"
       },
       {
         "name": "Dramatic Interpretation flag",
@@ -32,51 +939,51 @@
       },
       {
         "name": "Extemporaneous flag",
-        "population": "46"
+        "population": "43"
       },
       {
         "name": "Humorous Interpretation flag",
-        "population": "18"
+        "population": "12"
       },
       {
         "name": "Impromptu flag",
-        "population": "89"
+        "population": "116"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "8"
       },
       {
         "name": "Mars Hill flag",
-        "population": "29"
+        "population": "18"
       },
       {
         "name": "Open Interpretation flag",
-        "population": "20"
+        "population": "15"
       },
       {
         "name": "Original Oratory flag",
-        "population": "55"
+        "population": "61"
       },
       {
         "name": "Persuasive flag",
-        "population": "27"
-      },
-      {
-        "name": "Slam Poetry flag",
-        "population": "33"
+        "population": "40"
       },
       {
         "name": "Lincoln Douglas Value Debate flag",
-        "population": "53"
+        "population": "52"
       },
       {
         "name": "Lincoln Douglas Value Speaker flag",
-        "population": "53"
+        "population": "52"
       },
       {
         "name": "Parliamentary Debate flag",
-        "population": "35"
+        "population": "33"
       },
       {
         "name": "Parliamentary Speaker flag",
-        "population": "70"
+        "population": "66"
       },
       {
         "name": "Team Policy Debate flag",
@@ -89,295 +996,46 @@
     ]
   },
   {
-    "name": "VA - For the Love of Parli: Jan 18",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1860",
-    "state": "VA",
-    "date": "2024-01-18",
-    "date_raw": "Jan 18",
+    "name": "CA - Beacon at the Bay: Apr  4-5",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1803",
+    "state": "CA",
+    "date": "2024-04-04",
     "events": [
       {
-        "name": "Parliamentary Debate flag",
+        "name": "Apologetics flag",
+        "population": "76"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "15"
+      },
+      {
+        "name": "Expository flag",
         "population": "14"
       },
       {
-        "name": "Parliamentary Speaker flag",
-        "population": "28"
-      }
-    ]
-  },
-  {
-    "name": "TX - The Texas Two-Step: Jan 17-18",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1859",
-    "state": "TX",
-    "date": "2024-01-17",
-    "date_raw": "Jan 17-18",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "21"
-      },
-      {
-        "name": "Dramatic Interpretation flag",
-        "population": "7"
-      },
-      {
-        "name": "Duo Interpretation flag",
-        "population": "5"
-      },
-      {
-        "name": "Expository flag",
-        "population": "7"
-      },
-      {
-        "name": "Humorous Interpretation flag",
-        "population": "6"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "43"
-      },
-      {
-        "name": "Mars Hill flag",
-        "population": "5"
-      },
-      {
-        "name": "Open Interpretation flag",
-        "population": "7"
-      },
-      {
-        "name": "Original Oratory flag",
-        "population": "18"
-      },
-      {
-        "name": "Persuasive flag",
-        "population": "19"
-      },
-      {
-        "name": "Slam Poetry flag",
-        "population": "10"
-      },
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "27"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "27"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "11"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "22"
-      }
-    ]
-  },
-  {
-    "name": "CA - Ready Response: Jan 16-18",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1862",
-    "state": "CA",
-    "date": "2024-01-16",
-    "date_raw": "Jan 16-18",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "55"
-      },
-      {
-        "name": "Dramatic Interpretation flag",
-        "population": "6"
-      },
-      {
-        "name": "Duo Interpretation flag",
-        "population": "11"
-      },
-      {
-        "name": "Expository flag",
-        "population": "9"
-      },
-      {
         "name": "Extemporaneous flag",
-        "population": "36"
+        "population": "32"
       },
       {
         "name": "Humorous Interpretation flag",
-        "population": "9"
+        "population": "6"
       },
       {
         "name": "Impromptu flag",
         "population": "77"
       },
       {
-        "name": "Mars Hill flag",
-        "population": "27"
-      },
-      {
-        "name": "Open Interpretation flag",
-        "population": "17"
-      },
-      {
-        "name": "Original Oratory flag",
-        "population": "43"
-      },
-      {
-        "name": "Persuasive flag",
-        "population": "28"
-      },
-      {
-        "name": "Slam Poetry flag",
-        "population": "20"
-      },
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "36"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "36"
-      },
-      {
-        "name": "Parliamentary Debate flag",
-        "population": "26"
-      },
-      {
-        "name": "Parliamentary Speaker flag",
-        "population": "52"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "49"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "98"
-      }
-    ]
-  },
-  {
-    "name": "GA - Salt & Light: Jan 16-18",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1861",
-    "state": "GA",
-    "date": "2024-01-16",
-    "date_raw": "Jan 16-18",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "16"
-      },
-      {
-        "name": "Dramatic Interpretation flag",
-        "population": "5"
-      },
-      {
-        "name": "Duo Interpretation flag",
-        "population": "5"
-      },
-      {
-        "name": "Expository flag",
-        "population": "5"
-      },
-      {
-        "name": "Extemporaneous flag",
-        "population": "21"
-      },
-      {
-        "name": "Humorous Interpretation flag",
-        "population": "4"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "44"
+        "name": "Interp in a Box flag",
+        "population": "9"
       },
       {
         "name": "Mars Hill flag",
-        "population": "11"
-      },
-      {
-        "name": "Open Interpretation flag",
-        "population": "5"
-      },
-      {
-        "name": "Original Oratory flag",
-        "population": "8"
-      },
-      {
-        "name": "Persuasive flag",
-        "population": "13"
-      },
-      {
-        "name": "Slam Poetry flag",
         "population": "23"
       },
       {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "22"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "22"
-      },
-      {
-        "name": "Parliamentary Debate flag",
-        "population": "18"
-      },
-      {
-        "name": "Parliamentary Speaker flag",
-        "population": "36"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "25"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "50"
-      }
-    ]
-  },
-  {
-    "name": "CA - The Desert Gem: Jan 15-18",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1858",
-    "state": "CA",
-    "date": "2024-01-15",
-    "date_raw": "Jan 15-18",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "65"
-      },
-      {
-        "name": "Dramatic Interpretation flag",
-        "population": "5"
-      },
-      {
-        "name": "Duo Interpretation flag",
-        "population": "12"
-      },
-      {
-        "name": "Expository flag",
-        "population": "4"
-      },
-      {
-        "name": "Extemporaneous flag",
-        "population": "26"
-      },
-      {
-        "name": "Humorous Interpretation flag",
-        "population": "6"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "63"
-      },
-      {
-        "name": "Mars Hill flag",
-        "population": "25"
-      },
-      {
         "name": "Open Interpretation flag",
-        "population": "7"
+        "population": "11"
       },
       {
         "name": "Original Oratory flag",
@@ -385,914 +1043,39 @@
       },
       {
         "name": "Persuasive flag",
-        "population": "18"
-      },
-      {
-        "name": "Slam Poetry flag",
-        "population": "38"
-      },
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "40"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "40"
-      },
-      {
-        "name": "Parliamentary Debate flag",
-        "population": "18"
-      },
-      {
-        "name": "Parliamentary Speaker flag",
-        "population": "36"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "17"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "34"
-      }
-    ]
-  },
-  {
-    "name": "CO - Mile High Conquest: Jan  7-10",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1857",
-    "state": "CO",
-    "date": "2024-01-07",
-    "date_raw": "Jan  7-10",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "56"
-      },
-      {
-        "name": "Dramatic Interpretation flag",
-        "population": "25"
-      },
-      {
-        "name": "Duo Interpretation flag",
-        "population": "30"
-      },
-      {
-        "name": "Expository flag",
-        "population": "18"
-      },
-      {
-        "name": "Extemporaneous flag",
-        "population": "72"
-      },
-      {
-        "name": "Humorous Interpretation flag",
-        "population": "25"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "81"
-      },
-      {
-        "name": "Mars Hill flag",
-        "population": "48"
-      },
-      {
-        "name": "Open Interpretation flag",
-        "population": "33"
-      },
-      {
-        "name": "Original Oratory flag",
-        "population": "56"
-      },
-      {
-        "name": "Persuasive flag",
-        "population": "40"
-      },
-      {
-        "name": "Slam Poetry flag",
-        "population": "54"
-      },
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "56"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "56"
-      },
-      {
-        "name": "Parliamentary Debate flag",
-        "population": "48"
-      },
-      {
-        "name": "Parliamentary Speaker flag",
-        "population": "96"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "62"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "124"
-      }
-    ]
-  },
-  {
-    "name": "WA - Winter Warm-Up: Jan  3-4",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1856",
-    "state": "WA",
-    "date": "2024-01-03",
-    "date_raw": "Jan  3-4",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "21"
-      },
-      {
-        "name": "Dramatic Interpretation flag",
-        "population": "3"
-      },
-      {
-        "name": "Duo Interpretation flag",
-        "population": "8"
-      },
-      {
-        "name": "Expository flag",
-        "population": "8"
-      },
-      {
-        "name": "Extemporaneous flag",
-        "population": "12"
-      },
-      {
-        "name": "Humorous Interpretation flag",
-        "population": "4"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "40"
-      },
-      {
-        "name": "Mars Hill flag",
-        "population": "13"
-      },
-      {
-        "name": "Open Interpretation flag",
-        "population": "7"
-      },
-      {
-        "name": "Original Oratory flag",
-        "population": "17"
-      },
-      {
-        "name": "Persuasive flag",
-        "population": "7"
-      },
-      {
-        "name": "Slam Poetry flag",
-        "population": "14"
-      },
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "29"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "29"
-      }
-    ]
-  },
-  {
-    "name": "WA - Classicus Christmas Colloquy (C3): Dec 17",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1855",
-    "state": "WA",
-    "date": "2024-12-17",
-    "date_raw": "Dec 17",
-    "events": [
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "14"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "14"
-      }
-    ]
-  },
-  {
-    "name": "NV - The Silver Lining: Dec 16-17",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1854",
-    "state": "NV",
-    "date": "2024-12-16",
-    "date_raw": "Dec 16-17",
-    "events": [
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "19"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "19"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "21"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "42"
-      }
-    ]
-  },
-  {
-    "name": "TN - The Night-Talk Before Christmas: Dec 14",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1853",
-    "state": "TN",
-    "date": "2024-12-14",
-    "date_raw": "Dec 14",
-    "events": [
-      {
-        "name": "Parliamentary Debate flag",
-        "population": "12"
-      },
-      {
-        "name": "Parliamentary Speaker flag",
-        "population": "24"
-      }
-    ]
-  },
-  {
-    "name": "GA - Columbus Christmas Classic: Dec  7",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1852",
-    "state": "GA",
-    "date": "2024-12-07",
-    "date_raw": "Dec  7",
-    "events": [
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "20"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "20"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "21"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "42"
-      }
-    ]
-  },
-  {
-    "name": "WA - Midnight Miracle: Dec  7",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1850",
-    "state": "WA",
-    "date": "2024-12-07",
-    "date_raw": "Dec  7",
-    "events": [
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "15"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "15"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "12"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "24"
-      }
-    ]
-  },
-  {
-    "name": "AR - Christmas in the Ozarks: Dec  5-7",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1849",
-    "state": "AR",
-    "date": "2024-12-05",
-    "date_raw": "Dec  5-7",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "40"
-      },
-      {
-        "name": "Dramatic Interpretation flag",
-        "population": "11"
-      },
-      {
-        "name": "Duo Interpretation flag",
-        "population": "8"
-      },
-      {
-        "name": "Expository flag",
-        "population": "11"
-      },
-      {
-        "name": "Extemporaneous flag",
         "population": "22"
       },
       {
-        "name": "Humorous Interpretation flag",
-        "population": "13"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "36"
-      },
-      {
-        "name": "Mars Hill flag",
-        "population": "11"
-      },
-      {
-        "name": "Open Interpretation flag",
-        "population": "16"
-      },
-      {
-        "name": "Original Oratory flag",
-        "population": "35"
-      },
-      {
-        "name": "Persuasive flag",
-        "population": "9"
-      },
-      {
-        "name": "Slam Poetry flag",
-        "population": "26"
-      },
-      {
         "name": "Lincoln Douglas Value Debate flag",
-        "population": "39"
+        "population": "42"
       },
       {
         "name": "Lincoln Douglas Value Speaker flag",
-        "population": "39"
-      },
-      {
-        "name": "Parliamentary Debate flag",
-        "population": "18"
-      },
-      {
-        "name": "Parliamentary Speaker flag",
-        "population": "36"
+        "population": "42"
       },
       {
         "name": "Team Policy Debate flag",
-        "population": "12"
+        "population": "30"
       },
       {
         "name": "Team Policy Speaker flag",
-        "population": "24"
+        "population": "60"
       }
     ]
   },
   {
-    "name": "CA - The Christmas Colloquium: Dec  5-7",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1851",
-    "state": "CA",
-    "date": "2024-12-05",
-    "date_raw": "Dec  5-7",
+    "name": "WA - Espresso Cup: Apr  3-6",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1802",
+    "state": "WA",
+    "date": "2024-04-03",
     "events": [
       {
         "name": "Apologetics flag",
-        "population": "110"
-      },
-      {
-        "name": "Dramatic Interpretation flag",
-        "population": "5"
-      },
-      {
-        "name": "Duo Interpretation flag",
-        "population": "20"
-      },
-      {
-        "name": "Expository flag",
-        "population": "4"
-      },
-      {
-        "name": "Extemporaneous flag",
-        "population": "40"
-      },
-      {
-        "name": "Humorous Interpretation flag",
-        "population": "8"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "108"
-      },
-      {
-        "name": "Mars Hill flag",
-        "population": "31"
-      },
-      {
-        "name": "Open Interpretation flag",
-        "population": "12"
-      },
-      {
-        "name": "Original Oratory flag",
-        "population": "50"
-      },
-      {
-        "name": "Persuasive flag",
-        "population": "28"
-      },
-      {
-        "name": "Slam Poetry flag",
         "population": "49"
       },
       {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "51"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "51"
-      },
-      {
-        "name": "Parliamentary Debate flag",
-        "population": "27"
-      },
-      {
-        "name": "Parliamentary Speaker flag",
-        "population": "54"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "35"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "70"
-      }
-    ]
-  },
-  {
-    "name": "NC - Voices of Liberty: Dec  5-7",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1848",
-    "state": "NC",
-    "date": "2024-12-05",
-    "date_raw": "Dec  5-7",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "29"
-      },
-      {
         "name": "Dramatic Interpretation flag",
-        "population": "6"
-      },
-      {
-        "name": "Duo Interpretation flag",
-        "population": "8"
-      },
-      {
-        "name": "Expository flag",
-        "population": "6"
-      },
-      {
-        "name": "Extemporaneous flag",
-        "population": "13"
-      },
-      {
-        "name": "Humorous Interpretation flag",
-        "population": "3"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "32"
-      },
-      {
-        "name": "Mars Hill flag",
-        "population": "16"
-      },
-      {
-        "name": "Open Interpretation flag",
-        "population": "8"
-      },
-      {
-        "name": "Original Oratory flag",
-        "population": "18"
-      },
-      {
-        "name": "Persuasive flag",
-        "population": "17"
-      },
-      {
-        "name": "Slam Poetry flag",
-        "population": "26"
-      },
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "20"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "20"
-      },
-      {
-        "name": "Parliamentary Debate flag",
-        "population": "16"
-      },
-      {
-        "name": "Parliamentary Speaker flag",
-        "population": "32"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "32"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "64"
-      }
-    ]
-  },
-  {
-    "name": "CA - A Thankful Response: Nov 23",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1845",
-    "state": "CA",
-    "date": "2024-11-23",
-    "date_raw": "Nov 23",
-    "events": [
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "19"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "19"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "25"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "50"
-      }
-    ]
-  },
-  {
-    "name": "WA - Field of Mars: Nov 23",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1842",
-    "state": "WA",
-    "date": "2024-11-23",
-    "date_raw": "Nov 23",
-    "events": [
-      {
-        "name": "Parliamentary Debate flag",
-        "population": "12"
-      },
-      {
-        "name": "Parliamentary Speaker flag",
-        "population": "24"
-      }
-    ]
-  },
-  {
-    "name": "CO -  Resolve Early Tournament: Nov 22-23",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1846",
-    "state": "CO",
-    "date": "2024-11-22",
-    "date_raw": "Nov 22-23",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "70"
-      },
-      {
-        "name": "Extemporaneous flag",
-        "population": "46"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "90"
-      },
-      {
-        "name": "Mars Hill flag",
-        "population": "32"
-      },
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "41"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "41"
-      },
-      {
-        "name": "Parliamentary Debate flag",
-        "population": "22"
-      },
-      {
-        "name": "Parliamentary Speaker flag",
-        "population": "44"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "41"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "82"
-      }
-    ]
-  },
-  {
-    "name": "TX - Cornucopia Challenge: Nov 22-23",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1844",
-    "state": "TX",
-    "date": "2024-11-22",
-    "date_raw": "Nov 22-23",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "16"
-      },
-      {
-        "name": "Dramatic Interpretation flag",
-        "population": "6"
-      },
-      {
-        "name": "Duo Interpretation flag",
-        "population": "5"
-      },
-      {
-        "name": "Expository flag",
-        "population": "7"
-      },
-      {
-        "name": "Extemporaneous flag",
-        "population": "8"
-      },
-      {
-        "name": "Humorous Interpretation flag",
-        "population": "6"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "42"
-      },
-      {
-        "name": "Mars Hill flag",
-        "population": "7"
-      },
-      {
-        "name": "Open Interpretation flag",
-        "population": "9"
-      },
-      {
-        "name": "Original Oratory flag",
-        "population": "20"
-      },
-      {
-        "name": "Persuasive flag",
-        "population": "18"
-      },
-      {
-        "name": "Slam Poetry flag",
-        "population": "8"
-      },
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "36"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "36"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "8"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "16"
-      }
-    ]
-  },
-  {
-    "name": "NC - Queen City Classic: Nov 22-23",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1847",
-    "state": "NC",
-    "date": "2024-11-22",
-    "date_raw": "Nov 22-23",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "15"
-      },
-      {
-        "name": "Dramatic Interpretation flag",
-        "population": "6"
-      },
-      {
-        "name": "Duo Interpretation flag",
-        "population": "4"
-      },
-      {
-        "name": "Expository flag",
-        "population": "4"
-      },
-      {
-        "name": "Extemporaneous flag",
-        "population": "4"
-      },
-      {
-        "name": "Humorous Interpretation flag",
-        "population": "3"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "24"
-      },
-      {
-        "name": "Mars Hill flag",
-        "population": "8"
-      },
-      {
-        "name": "Open Interpretation flag",
-        "population": "4"
-      },
-      {
-        "name": "Original Oratory flag",
-        "population": "9"
-      },
-      {
-        "name": "Persuasive flag",
-        "population": "6"
-      },
-      {
-        "name": "Slam Poetry flag",
-        "population": "14"
-      },
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "15"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "15"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "16"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "32"
-      }
-    ]
-  },
-  {
-    "name": "CA - Codename California Christmas Challenge - C4: Nov 21-22",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1843",
-    "state": "CA",
-    "date": "2024-11-21",
-    "date_raw": "Nov 21-22",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "41"
-      },
-      {
-        "name": "Extemporaneous flag",
-        "population": "23"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "50"
-      },
-      {
-        "name": "Mars Hill flag",
-        "population": "15"
-      },
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "30"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "30"
-      },
-      {
-        "name": "Parliamentary Debate flag",
-        "population": "16"
-      },
-      {
-        "name": "Parliamentary Speaker flag",
-        "population": "32"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "17"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "34"
-      }
-    ]
-  },
-  {
-    "name": "NV - Seasoned with Salt : Nov 16",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1841",
-    "state": "NV",
-    "date": "2024-11-16",
-    "date_raw": "Nov 16",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "7"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "9"
-      },
-      {
-        "name": "Open Interpretation flag",
-        "population": "3"
-      },
-      {
-        "name": "Original Oratory flag",
-        "population": "13"
-      }
-    ]
-  },
-  {
-    "name": "AZ - Cactus Clash: Nov 14-16",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1839",
-    "state": "AZ",
-    "date": "2024-11-14",
-    "date_raw": "Nov 14-16",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "36"
-      },
-      {
-        "name": "Extemporaneous flag",
-        "population": "23"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "51"
-      },
-      {
-        "name": "Mars Hill flag",
-        "population": "8"
-      },
-      {
-        "name": "Slam Poetry flag",
-        "population": "24"
-      },
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "19"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "19"
-      },
-      {
-        "name": "Parliamentary Debate flag",
-        "population": "16"
-      },
-      {
-        "name": "Parliamentary Speaker flag",
-        "population": "32"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "19"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "38"
-      }
-    ]
-  },
-  {
-    "name": "TN - David Helton Fall Forensics Forum: Nov 14-16",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1840",
-    "state": "TN",
-    "date": "2024-11-14",
-    "date_raw": "Nov 14-16",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "56"
-      },
-      {
-        "name": "Dramatic Interpretation flag",
-        "population": "4"
+        "population": "10"
       },
       {
         "name": "Duo Interpretation flag",
@@ -1300,23 +1083,187 @@
       },
       {
         "name": "Expository flag",
-        "population": "11"
-      },
-      {
-        "name": "Extemporaneous flag",
-        "population": "37"
-      },
-      {
-        "name": "Humorous Interpretation flag",
         "population": "7"
       },
       {
+        "name": "Extemporaneous flag",
+        "population": "34"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "12"
+      },
+      {
         "name": "Impromptu flag",
-        "population": "99"
+        "population": "50"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "11"
       },
       {
         "name": "Mars Hill flag",
+        "population": "26"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "22"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "36"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "20"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "38"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "38"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "23"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "46"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "18"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "36"
+      }
+    ]
+  },
+  {
+    "name": "CO - Continental Divide Challenge: Mar 25-28",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1799",
+    "state": "CO",
+    "date": "2024-03-25",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "84"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "21"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "27"
+      },
+      {
+        "name": "Expository flag",
+        "population": "32"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "53"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "30"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "161"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "13"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "39"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "48"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "60"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "46"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "54"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "54"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "30"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "60"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "46"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "92"
+      }
+    ]
+  },
+  {
+    "name": "GA - Shamrock Showdown: Mar 21-23",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1796",
+    "state": "GA",
+    "date": "2024-03-21",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "18"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Expository flag",
+        "population": "5"
+      },
+      {
+        "name": "Extemporaneous flag",
         "population": "24"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "49"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "9"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "13"
       },
       {
         "name": "Open Interpretation flag",
@@ -1324,56 +1271,435 @@
       },
       {
         "name": "Original Oratory flag",
-        "population": "48"
+        "population": "16"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "19"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "24"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "24"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "22"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "44"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "23"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "46"
+      }
+    ]
+  },
+  {
+    "name": "WA - Shamrock Showdown: Mar 20-23",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1795",
+    "state": "WA",
+    "date": "2024-03-20",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "45"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "9"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Expository flag",
+        "population": "7"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "22"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "61"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "9"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "21"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "21"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "29"
       },
       {
         "name": "Persuasive flag",
         "population": "20"
       },
       {
-        "name": "Slam Poetry flag",
-        "population": "27"
-      },
-      {
         "name": "Lincoln Douglas Value Debate flag",
-        "population": "48"
+        "population": "33"
       },
       {
         "name": "Lincoln Douglas Value Speaker flag",
-        "population": "48"
+        "population": "33"
       },
       {
         "name": "Parliamentary Debate flag",
-        "population": "31"
+        "population": "21"
       },
       {
         "name": "Parliamentary Speaker flag",
-        "population": "62"
+        "population": "42"
       },
       {
         "name": "Team Policy Debate flag",
-        "population": "32"
+        "population": "11"
       },
       {
         "name": "Team Policy Speaker flag",
-        "population": "64"
+        "population": "22"
       }
     ]
   },
   {
-    "name": "CA - Veritas Veterans Day Challenge: Nov 11",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1838",
+    "name": "CA - Heart of the Valley : Mar 19-22",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1798",
     "state": "CA",
-    "date": "2024-11-11",
-    "date_raw": "Nov 11",
+    "date": "2024-03-19",
     "events": [
       {
+        "name": "Apologetics flag",
+        "population": "54"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "9"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "21"
+      },
+      {
+        "name": "Expository flag",
+        "population": "10"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "38"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "78"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "6"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "30"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "34"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "51"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "29"
+      },
+      {
         "name": "Lincoln Douglas Value Debate flag",
-        "population": "48"
+        "population": "55"
       },
       {
         "name": "Lincoln Douglas Value Speaker flag",
+        "population": "55"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "27"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "54"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "44"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "88"
+      }
+    ]
+  },
+  {
+    "name": "CA - Speak for Liberty!: Mar 18-19",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1797",
+    "state": "CA",
+    "date": "2024-03-18",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "84"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "16"
+      },
+      {
+        "name": "Expository flag",
+        "population": "14"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "30"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "82"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "5"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "21"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "50"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "22"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "47"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "47"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "25"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "50"
+      }
+    ]
+  },
+  {
+    "name": "VA - Colonial Classic: Mar 15-16",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1794",
+    "state": "VA",
+    "date": "2024-03-15",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "24"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "9"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "52"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "14"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "14"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "23"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "11"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "15"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "15"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "29"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "58"
+      }
+    ]
+  },
+  {
+    "name": "TX - The Texas Escalade: Mar 13-16",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1793",
+    "state": "TX",
+    "date": "2024-03-13",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "70"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "12"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "15"
+      },
+      {
+        "name": "Expository flag",
+        "population": "17"
+      },
+      {
+        "name": "Extemporaneous flag",
         "population": "48"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "14"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "81"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "10"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "28"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "28"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "63"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "32"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "67"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "67"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "32"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "64"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "39"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "78"
+      }
+    ]
+  },
+  {
+    "name": "CA - Classic Clash: Mar  8-9",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1789",
+    "state": "CA",
+    "date": "2024-03-08",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "37"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "37"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "27"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "54"
       },
       {
         "name": "Team Policy Debate flag",
@@ -1386,19 +1712,18 @@
     ]
   },
   {
-    "name": "VA - GobblerFest: Nov  7-9",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1836",
-    "state": "VA",
-    "date": "2024-11-07",
-    "date_raw": "Nov  7-9",
+    "name": "NE - Cornfield Clash: Mar  7-9",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1792",
+    "state": "NE",
+    "date": "2024-03-07",
     "events": [
       {
         "name": "Apologetics flag",
-        "population": "32"
+        "population": "44"
       },
       {
         "name": "Dramatic Interpretation flag",
-        "population": "8"
+        "population": "12"
       },
       {
         "name": "Duo Interpretation flag",
@@ -1406,19 +1731,23 @@
       },
       {
         "name": "Expository flag",
-        "population": "8"
+        "population": "12"
       },
       {
         "name": "Extemporaneous flag",
-        "population": "21"
+        "population": "28"
       },
       {
         "name": "Humorous Interpretation flag",
-        "population": "4"
+        "population": "13"
       },
       {
         "name": "Impromptu flag",
-        "population": "32"
+        "population": "69"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "8"
       },
       {
         "name": "Mars Hill flag",
@@ -1426,116 +1755,31 @@
       },
       {
         "name": "Open Interpretation flag",
-        "population": "16"
-      },
-      {
-        "name": "Original Oratory flag",
-        "population": "33"
-      },
-      {
-        "name": "Persuasive flag",
-        "population": "22"
-      },
-      {
-        "name": "Slam Poetry flag",
-        "population": "43"
-      },
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "29"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "29"
-      },
-      {
-        "name": "Parliamentary Debate flag",
-        "population": "22"
-      },
-      {
-        "name": "Parliamentary Speaker flag",
-        "population": "44"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "23"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "46"
-      }
-    ]
-  },
-  {
-    "name": "TX - Piney Woods Derby: Nov  7-9",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1837",
-    "state": "TX",
-    "date": "2024-11-07",
-    "date_raw": "Nov  7-9",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "46"
-      },
-      {
-        "name": "Dramatic Interpretation flag",
-        "population": "7"
-      },
-      {
-        "name": "Duo Interpretation flag",
-        "population": "8"
-      },
-      {
-        "name": "Expository flag",
-        "population": "8"
-      },
-      {
-        "name": "Extemporaneous flag",
-        "population": "31"
-      },
-      {
-        "name": "Humorous Interpretation flag",
-        "population": "10"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "44"
-      },
-      {
-        "name": "Mars Hill flag",
-        "population": "23"
-      },
-      {
-        "name": "Open Interpretation flag",
         "population": "21"
       },
       {
         "name": "Original Oratory flag",
-        "population": "32"
+        "population": "27"
       },
       {
         "name": "Persuasive flag",
-        "population": "13"
-      },
-      {
-        "name": "Slam Poetry flag",
-        "population": "26"
+        "population": "19"
       },
       {
         "name": "Lincoln Douglas Value Debate flag",
-        "population": "53"
+        "population": "21"
       },
       {
         "name": "Lincoln Douglas Value Speaker flag",
-        "population": "53"
+        "population": "21"
       },
       {
         "name": "Parliamentary Debate flag",
-        "population": "26"
+        "population": "16"
       },
       {
         "name": "Parliamentary Speaker flag",
-        "population": "52"
+        "population": "32"
       },
       {
         "name": "Team Policy Debate flag",
@@ -1548,19 +1792,546 @@
     ]
   },
   {
-    "name": "GA - Pumpkin Patch Match: Oct 31-Nov  2",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1835",
-    "state": "GA",
-    "date": "2024-10-31",
-    "date_raw": "Oct 31-Nov  2",
+    "name": "AL - Penguin Flight 2024: Mar  7-9",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1790",
+    "state": "AL",
+    "date": "2024-03-07",
     "events": [
       {
         "name": "Apologetics flag",
-        "population": "15"
+        "population": "5"
       },
       {
         "name": "Dramatic Interpretation flag",
         "population": "3"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Expository flag",
+        "population": "3"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "5"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "25"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "3"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "5"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "8"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "5"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "12"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "12"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "10"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "20"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "8"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "16"
+      }
+    ]
+  },
+  {
+    "name": "VA - PHC Challenge: Mar  7-9",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1791",
+    "state": "VA",
+    "date": "2024-03-07",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "45"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "9"
+      },
+      {
+        "name": "Expository flag",
+        "population": "8"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "30"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "64"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "11"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "32"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "19"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "53"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "25"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "30"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "30"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "30"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "60"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "22"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "44"
+      }
+    ]
+  },
+  {
+    "name": "VA - Shamrock Shakedown: Mar  2",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1779",
+    "state": "VA",
+    "date": "2024-03-02",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "16"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "53"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "20"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "23"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "27"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "19"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "26"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "26"
+      }
+    ]
+  },
+  {
+    "name": "GA - Peach State Classic: Feb 29-Mar  2",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1786",
+    "state": "GA",
+    "date": "2024-02-29",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "36"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "12"
+      },
+      {
+        "name": "Expository flag",
+        "population": "6"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "36"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "42"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "12"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "16"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "14"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "25"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "26"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "24"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "24"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "31"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "62"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "29"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "58"
+      }
+    ]
+  },
+  {
+    "name": "OK - Green Country Challenge: Feb 28-Mar  2",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1787",
+    "state": "OK",
+    "date": "2024-02-28",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "46"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Expository flag",
+        "population": "10"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "40"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "68"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "6"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "18"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "18"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "39"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "18"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "34"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "34"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "18"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "36"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "22"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "44"
+      }
+    ]
+  },
+  {
+    "name": "WA - Evergreen Classic: Feb 23-24",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1785",
+    "state": "WA",
+    "date": "2024-02-23",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "32"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Expository flag",
+        "population": "5"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "16"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "27"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "5"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "21"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "18"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "22"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "16"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "25"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "25"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "13"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "26"
+      }
+    ]
+  },
+  {
+    "name": "CA - Nor Cal LD Contender: Feb 23",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1788",
+    "state": "CA",
+    "date": "2024-02-23",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "16"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "16"
+      }
+    ]
+  },
+  {
+    "name": "CA - Act of Valor: Feb 21-23",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1784",
+    "state": "CA",
+    "date": "2024-02-21",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "59"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Expository flag",
+        "population": "8"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "23"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "60"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "4"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "21"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "12"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "30"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "16"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "40"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "40"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "13"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "26"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "18"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "36"
+      }
+    ]
+  },
+  {
+    "name": "NC - All American Classic 2024: Feb 15-17",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1778",
+    "state": "NC",
+    "date": "2024-02-15",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "32"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "12"
       },
       {
         "name": "Duo Interpretation flag",
@@ -1572,138 +2343,35 @@
       },
       {
         "name": "Extemporaneous flag",
-        "population": "12"
+        "population": "22"
       },
       {
         "name": "Humorous Interpretation flag",
-        "population": "3"
+        "population": "5"
       },
       {
         "name": "Impromptu flag",
-        "population": "36"
+        "population": "63"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "7"
       },
       {
         "name": "Mars Hill flag",
-        "population": "11"
+        "population": "20"
       },
       {
         "name": "Open Interpretation flag",
-        "population": "3"
+        "population": "9"
       },
       {
         "name": "Original Oratory flag",
-        "population": "12"
+        "population": "24"
       },
       {
         "name": "Persuasive flag",
-        "population": "10"
-      },
-      {
-        "name": "Slam Poetry flag",
-        "population": "18"
-      },
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "16"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "16"
-      },
-      {
-        "name": "Parliamentary Debate flag",
-        "population": "13"
-      },
-      {
-        "name": "Parliamentary Speaker flag",
-        "population": "26"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "23"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "46"
-      }
-    ]
-  },
-  {
-    "name": "MO - Next Gen Inquirey: Oct 26",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1834",
-    "state": "MO",
-    "date": "2024-10-26",
-    "date_raw": "Oct 26",
-    "events": [
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "18"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "18"
-      }
-    ]
-  },
-  {
-    "name": "TX - Coyote Classic: Oct 24-26",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1833",
-    "state": "TX",
-    "date": "2024-10-24",
-    "date_raw": "Oct 24-26",
-    "events": [
-      {
-        "name": "Impromptu flag",
-        "population": "26"
-      },
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "24"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "24"
-      },
-      {
-        "name": "Parliamentary Debate flag",
-        "population": "10"
-      },
-      {
-        "name": "Parliamentary Speaker flag",
-        "population": "20"
-      },
-      {
-        "name": "Team Policy Debate flag",
         "population": "12"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "24"
-      }
-    ]
-  },
-  {
-    "name": "VA - Light the TORCH: Oct 19",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1826",
-    "state": "VA",
-    "date": "2024-10-19",
-    "date_raw": "Oct 19",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "23"
-      },
-      {
-        "name": "Extemporaneous flag",
-        "population": "11"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "32"
-      },
-      {
-        "name": "Mars Hill flag",
-        "population": "15"
       },
       {
         "name": "Lincoln Douglas Value Debate flag",
@@ -1712,236 +2380,242 @@
       {
         "name": "Lincoln Douglas Value Speaker flag",
         "population": "21"
-      }
-    ]
-  },
-  {
-    "name": "AL - Pumpkin Spice Parli & Prep: Oct 18-19",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1832",
-    "state": "AL",
-    "date": "2024-10-18",
-    "date_raw": "Oct 18-19",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "22"
-      },
-      {
-        "name": "Duo Interpretation flag",
-        "population": "5"
-      },
-      {
-        "name": "Extemporaneous flag",
-        "population": "12"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "32"
-      },
-      {
-        "name": "Mars Hill flag",
-        "population": "11"
-      },
-      {
-        "name": "Slam Poetry flag",
-        "population": "17"
-      },
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "20"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "20"
       },
       {
         "name": "Parliamentary Debate flag",
-        "population": "13"
+        "population": "19"
       },
       {
         "name": "Parliamentary Speaker flag",
-        "population": "26"
+        "population": "38"
       },
       {
         "name": "Team Policy Debate flag",
-        "population": "8"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "16"
-      }
-    ]
-  },
-  {
-    "name": "WA - Tip of the Spear: Oct 18-19",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1831",
-    "state": "WA",
-    "date": "2024-10-18",
-    "date_raw": "Oct 18-19",
-    "events": [
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "17"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "17"
-      },
-      {
-        "name": "Parliamentary Debate flag",
-        "population": "13"
-      },
-      {
-        "name": "Parliamentary Speaker flag",
-        "population": "26"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "8"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "16"
-      }
-    ]
-  },
-  {
-    "name": "NV - Early Bird Gets the Trophy: Oct 12",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1829",
-    "state": "NV",
-    "date": "2024-10-12",
-    "date_raw": "Oct 12",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "8"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "14"
-      },
-      {
-        "name": "Original Oratory flag",
-        "population": "17"
-      }
-    ]
-  },
-  {
-    "name": "MO - Big Muddy Bash 2024: Oct 10-12",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1830",
-    "state": "MO",
-    "date": "2024-10-10",
-    "date_raw": "Oct 10-12",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "36"
-      },
-      {
-        "name": "Extemporaneous flag",
-        "population": "8"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "52"
-      },
-      {
-        "name": "Mars Hill flag",
-        "population": "4"
-      },
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "18"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "18"
-      },
-      {
-        "name": "Parliamentary Debate flag",
-        "population": "11"
-      },
-      {
-        "name": "Parliamentary Speaker flag",
-        "population": "22"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "11"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "22"
-      }
-    ]
-  },
-  {
-    "name": "CA - The Prolific Prologue: Oct 10-11",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1828",
-    "state": "CA",
-    "date": "2024-10-10",
-    "date_raw": "Oct 10-11",
-    "events": [
-      {
-        "name": "Apologetics flag",
-        "population": "41"
-      },
-      {
-        "name": "Extemporaneous flag",
-        "population": "13"
-      },
-      {
-        "name": "Impromptu flag",
-        "population": "43"
-      },
-      {
-        "name": "Mars Hill flag",
-        "population": "16"
-      },
-      {
-        "name": "Lincoln Douglas Value Debate flag",
         "population": "28"
       },
       {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "28"
-      },
-      {
-        "name": "Parliamentary Debate flag",
-        "population": "11"
-      },
-      {
-        "name": "Parliamentary Speaker flag",
-        "population": "22"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "14"
-      },
-      {
         "name": "Team Policy Speaker flag",
-        "population": "28"
+        "population": "56"
       }
     ]
   },
   {
-    "name": "TX - The Prologue: Oct 10-12",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1827",
+    "name": "TX - Texas Wildflower: Feb 15-17",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1780",
     "state": "TX",
-    "date": "2024-10-10",
-    "date_raw": "Oct 10-12",
+    "date": "2024-02-15",
     "events": [
       {
         "name": "Apologetics flag",
-        "population": "48"
+        "population": "42"
       },
       {
         "name": "Dramatic Interpretation flag",
-        "population": "5"
+        "population": "7"
       },
       {
         "name": "Duo Interpretation flag",
-        "population": "8"
+        "population": "12"
+      },
+      {
+        "name": "Expository flag",
+        "population": "12"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "23"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "67"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "4"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "19"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "15"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "32"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "13"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "40"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "40"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "24"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "48"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "29"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "58"
+      }
+    ]
+  },
+  {
+    "name": "CO - Centennial State Tournament: Feb 14-17",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1783",
+    "state": "CO",
+    "date": "2024-02-14",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "72"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "23"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "24"
+      },
+      {
+        "name": "Expository flag",
+        "population": "22"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "42"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "30"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "120"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "14"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "31"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "40"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "56"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "39"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "45"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "45"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "24"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "48"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "41"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "82"
+      }
+    ]
+  },
+  {
+    "name": "NC - F5 Shiver Fest: Feb 10",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1774",
+    "state": "NC",
+    "date": "2024-02-10",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "13"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "13"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "9"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "18"
+      }
+    ]
+  },
+  {
+    "name": "VA - For the Love of Parli: Feb 10",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1781",
+    "state": "VA",
+    "date": "2024-02-10",
+    "events": [
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "16"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "32"
+      }
+    ]
+  },
+  {
+    "name": "CA - Blossom Festival: Feb  9-10",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1776",
+    "state": "CA",
+    "date": "2024-02-09",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "32"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "18"
       },
       {
         "name": "Expository flag",
@@ -1949,23 +2623,27 @@
       },
       {
         "name": "Extemporaneous flag",
-        "population": "36"
+        "population": "20"
       },
       {
         "name": "Humorous Interpretation flag",
-        "population": "4"
+        "population": "9"
       },
       {
         "name": "Impromptu flag",
-        "population": "74"
+        "population": "49"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "4"
       },
       {
         "name": "Mars Hill flag",
-        "population": "23"
+        "population": "17"
       },
       {
         "name": "Open Interpretation flag",
-        "population": "12"
+        "population": "26"
       },
       {
         "name": "Original Oratory flag",
@@ -1973,60 +2651,175 @@
       },
       {
         "name": "Persuasive flag",
-        "population": "12"
-      },
-      {
-        "name": "Slam Poetry flag",
-        "population": "14"
-      },
-      {
-        "name": "Lincoln Douglas Value Debate flag",
-        "population": "51"
-      },
-      {
-        "name": "Lincoln Douglas Value Speaker flag",
-        "population": "51"
-      },
-      {
-        "name": "Parliamentary Debate flag",
-        "population": "25"
-      },
-      {
-        "name": "Parliamentary Speaker flag",
-        "population": "50"
-      },
-      {
-        "name": "Team Policy Debate flag",
-        "population": "26"
-      },
-      {
-        "name": "Team Policy Speaker flag",
-        "population": "52"
+        "population": "16"
       }
     ]
   },
   {
-    "name": "AR - Kickoff Challenge: Oct  3-5",
-    "url": "http://www.speechranks.com/2024/tournaments/view/1825",
-    "state": "AR",
-    "date": "2024-10-03",
-    "date_raw": "Oct  3-5",
+    "name": "WA - River City Refutation: Feb  9-10",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1777",
+    "state": "WA",
+    "date": "2024-02-09",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "21"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "21"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "13"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "26"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "8"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "16"
+      }
+    ]
+  },
+  {
+    "name": "KS - Little Tournament on the Prairie: Feb  8-10",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1775",
+    "state": "KS",
+    "date": "2024-02-08",
     "events": [
       {
         "name": "Apologetics flag",
-        "population": "34"
+        "population": "41"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Expository flag",
+        "population": "16"
       },
       {
         "name": "Extemporaneous flag",
-        "population": "27"
+        "population": "31"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "8"
       },
       {
         "name": "Impromptu flag",
-        "population": "59"
+        "population": "54"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "7"
       },
       {
         "name": "Mars Hill flag",
-        "population": "20"
+        "population": "22"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "21"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "30"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "18"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "30"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "30"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "17"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "34"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "17"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "34"
+      }
+    ]
+  },
+  {
+    "name": "TN - Music City Match: Feb  8-10",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1773",
+    "state": "TN",
+    "date": "2024-02-08",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "60"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Expository flag",
+        "population": "11"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "45"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "15"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "103"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "9"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "30"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "54"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "30"
       },
       {
         "name": "Lincoln Douglas Value Debate flag",
@@ -2035,6 +2828,86 @@
       {
         "name": "Lincoln Douglas Value Speaker flag",
         "population": "33"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "35"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "70"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "39"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "78"
+      }
+    ]
+  },
+  {
+    "name": "AZ - Camelback Classic: Feb  1-3",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1772",
+    "state": "AZ",
+    "date": "2024-02-01",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "54"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Expository flag",
+        "population": "4"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "32"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "62"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "5"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "19"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "32"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "23"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "37"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "37"
       },
       {
         "name": "Parliamentary Debate flag",
@@ -2046,11 +2919,2451 @@
       },
       {
         "name": "Team Policy Debate flag",
+        "population": "17"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "34"
+      }
+    ]
+  },
+  {
+    "name": "CA - Silicon Valley Speech Tournament: Jan 27",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1771",
+    "state": "CA",
+    "date": "2024-01-27",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "29"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "9"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "14"
+      },
+      {
+        "name": "Expository flag",
+        "population": "7"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "14"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "3"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "15"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "16"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "35"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "19"
+      }
+    ]
+  },
+  {
+    "name": "NC - Crystal Coast Classic: Jan 26-27",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1770",
+    "state": "NC",
+    "date": "2024-01-26",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "29"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Expository flag",
+        "population": "3"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "62"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "10"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "20"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "29"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "14"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "25"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "25"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "31"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "62"
+      }
+    ]
+  },
+  {
+    "name": "AR - Arkansas Diamond: Jan 25-27",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1769",
+    "state": "AR",
+    "date": "2024-01-25",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "78"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "20"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "22"
+      },
+      {
+        "name": "Expository flag",
+        "population": "23"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "65"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "16"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "99"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "9"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "32"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "25"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "64"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "47"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "57"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "57"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "47"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "94"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "44"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "88"
+      }
+    ]
+  },
+  {
+    "name": "WA - Northern Lights Challenge: Jan 24-27",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1768",
+    "state": "WA",
+    "date": "2024-01-24",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "41"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Expository flag",
+        "population": "5"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "18"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "50"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "8"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "20"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "17"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "21"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "17"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "30"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "30"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "17"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "34"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "11"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "22"
+      }
+    ]
+  },
+  {
+    "name": "CA - Central Valley Challenge: Jan 18-19",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1766",
+    "state": "CA",
+    "date": "2024-01-18",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "13"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Expository flag",
+        "population": "4"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "8"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "21"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "3"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "7"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "21"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "5"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "26"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "26"
+      }
+    ]
+  },
+  {
+    "name": "CA - The Desert Gem: Jan 17-20",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1767",
+    "state": "CA",
+    "date": "2024-01-17",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "88"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Expository flag",
+        "population": "10"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "32"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "73"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "5"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "23"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "39"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "23"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "48"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "48"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "18"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "36"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "20"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "40"
+      }
+    ]
+  },
+  {
+    "name": "WA - Sasquatch Scuffle: Jan 12-13",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1764",
+    "state": "WA",
+    "date": "2024-01-12",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "20"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "20"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "14"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "28"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "11"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "22"
+      }
+    ]
+  },
+  {
+    "name": "GA - January Jubilee: Jan 11-13",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1759",
+    "state": "GA",
+    "date": "2024-01-11",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "32"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Expository flag",
+        "population": "8"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "33"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "41"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "5"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "20"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "20"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "22"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "24"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "24"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "30"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "60"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "37"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "74"
+      }
+    ]
+  },
+  {
+    "name": "TX - New Year's Resolution: Jan 11-13",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1763",
+    "state": "TX",
+    "date": "2024-01-11",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "53"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "15"
+      },
+      {
+        "name": "Expository flag",
+        "population": "15"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "32"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "90"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "6"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "26"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "25"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "46"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "24"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "56"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "56"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "24"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "48"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "31"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "62"
+      }
+    ]
+  },
+  {
+    "name": "CA - Ready Response: Jan 11-13",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1765",
+    "state": "CA",
+    "date": "2024-01-11",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "39"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "12"
+      },
+      {
+        "name": "Expository flag",
+        "population": "9"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "23"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "60"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "4"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "16"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "20"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "36"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "23"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "32"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "32"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "20"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "40"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "40"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "80"
+      }
+    ]
+  },
+  {
+    "name": "WA - The Winter Warm-Up: Jan  6",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1762",
+    "state": "WA",
+    "date": "2024-01-06",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "25"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Expository flag",
+        "population": "6"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "12"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "39"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "4"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "13"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "12"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "18"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "9"
+      }
+    ]
+  },
+  {
+    "name": "CA - SoCal Classic: Jan  4-6",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1761",
+    "state": "CA",
+    "date": "2024-01-04",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "98"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "17"
+      },
+      {
+        "name": "Expository flag",
+        "population": "14"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "40"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "103"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "6"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "31"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "47"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "25"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "56"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "56"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "34"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "68"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "43"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "86"
+      }
+    ]
+  },
+  {
+    "name": "CO - Mile High Conquest: Jan  3-6",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1760",
+    "state": "CO",
+    "date": "2024-01-03",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "103"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "23"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "27"
+      },
+      {
+        "name": "Expository flag",
+        "population": "26"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "69"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "32"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "108"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "19"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "43"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "41"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "50"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "52"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "54"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "54"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "39"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "78"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "59"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "118"
+      }
+    ]
+  },
+  {
+    "name": "WA - Midnight Miracle: Dec 16",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1757",
+    "state": "WA",
+    "date": "2023-12-16",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "16"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "16"
+      },
+      {
+        "name": "Team Policy Debate flag",
         "population": "12"
       },
       {
         "name": "Team Policy Speaker flag",
         "population": "24"
+      }
+    ]
+  },
+  {
+    "name": "CA - The Christmas Colloquium: Dec  9",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1756",
+    "state": "CA",
+    "date": "2023-12-09",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "113"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "19"
+      },
+      {
+        "name": "Expository flag",
+        "population": "11"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "34"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "116"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "3"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "27"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "15"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "46"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "28"
+      }
+    ]
+  },
+  {
+    "name": "CA - Let's Contend: Dec  8-9",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1758",
+    "state": "CA",
+    "date": "2023-12-08",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "20"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Expository flag",
+        "population": "5"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "13"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "37"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "3"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "8"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "21"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "10"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "25"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "25"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "21"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "42"
+      }
+    ]
+  },
+  {
+    "name": "CA - C4: Dec  7-8",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1754",
+    "state": "CA",
+    "date": "2023-12-07",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "46"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "26"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "44"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "22"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "27"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "27"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "20"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "40"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "30"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "60"
+      }
+    ]
+  },
+  {
+    "name": "AL - Penguin Christmas: Dec  7-9",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1755",
+    "state": "AL",
+    "date": "2023-12-07",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "13"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Expository flag",
+        "population": "3"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "12"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "30"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "3"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "5"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "16"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "5"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "14"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "14"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "9"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "18"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "10"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "20"
+      }
+    ]
+  },
+  {
+    "name": "CA - Purely Parli Christmas Clash: Dec  2",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1753",
+    "state": "CA",
+    "date": "2023-12-02",
+    "events": [
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "17"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "34"
+      }
+    ]
+  },
+  {
+    "name": "VA - The Christmas Countdown: Dec  2",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1752",
+    "state": "VA",
+    "date": "2023-12-02",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "8"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "25"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "7"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "13"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "7"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "18"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "18"
+      }
+    ]
+  },
+  {
+    "name": "AR - Christmas in the Ozarks: Nov 30-Dec  2",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1748",
+    "state": "AR",
+    "date": "2023-11-30",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "32"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Expository flag",
+        "population": "13"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "24"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "54"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "5"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "12"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "14"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "24"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "13"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "31"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "31"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "14"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "28"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "9"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "18"
+      }
+    ]
+  },
+  {
+    "name": "TX - Feliz Navidad: Nov 30-Dec  2",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1750",
+    "state": "TX",
+    "date": "2023-11-30",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "5"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Expository flag",
+        "population": "3"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "23"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "3"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "14"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "6"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "17"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "17"
+      }
+    ]
+  },
+  {
+    "name": "GA - The Christmas Kickoff: Nov 30-Dec  2",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1749",
+    "state": "GA",
+    "date": "2023-11-30",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "29"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Expository flag",
+        "population": "4"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "31"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "39"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "4"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "23"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "16"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "14"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "21"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "21"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "25"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "50"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "33"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "66"
+      }
+    ]
+  },
+  {
+    "name": "WA - Wild Turkey Tourney: Nov 30-Dec  2",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1751",
+    "state": "WA",
+    "date": "2023-11-30",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "52"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Expository flag",
+        "population": "15"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "8"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "30"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "5"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "8"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "9"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "16"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "18"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "23"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "23"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "10"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "20"
+      }
+    ]
+  },
+  {
+    "name": "CO - Resolve Early Tournament: Nov 17-18",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1746",
+    "state": "CO",
+    "date": "2023-11-17",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "62"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "41"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "96"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "27"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "40"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "40"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "22"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "44"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "40"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "80"
+      }
+    ]
+  },
+  {
+    "name": "TN - The David Helton Fall Forensics Forum: Nov 16-18",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1747",
+    "state": "TN",
+    "date": "2023-11-16",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "55"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Expository flag",
+        "population": "5"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "51"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "11"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "99"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "5"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "28"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "12"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "53"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "22"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "45"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "45"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "35"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "70"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "34"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "68"
+      }
+    ]
+  },
+  {
+    "name": "CA - Veritas Veterans Day Challenge: Nov 10-11",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1744",
+    "state": "CA",
+    "date": "2023-11-10",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "68"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Expository flag",
+        "population": "7"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "27"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "7"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "72"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "18"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "35"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "22"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "46"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "46"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "48"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "96"
+      }
+    ]
+  },
+  {
+    "name": "CA - Banter at the Bay: Nov  9",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1745",
+    "state": "CA",
+    "date": "2023-11-09",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "11"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "9"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "10"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "20"
+      }
+    ]
+  },
+  {
+    "name": "NC - Harvest Hustle: Nov  9-11",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1742",
+    "state": "NC",
+    "date": "2023-11-09",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "7"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "7"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "24"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "3"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "7"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "5"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "8"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "8"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "8"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "16"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "13"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "26"
+      }
+    ]
+  },
+  {
+    "name": "TX - Piney Woods Derby: Nov  9-11",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1743",
+    "state": "TX",
+    "date": "2023-11-09",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "48"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "13"
+      },
+      {
+        "name": "Expository flag",
+        "population": "15"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "40"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "54"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "6"
+      },
+      {
+        "name": "Mars Hill Impromptu flag",
+        "population": "32"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "18"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "30"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "23"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "50"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "50"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "26"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "52"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "33"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "66"
+      }
+    ]
+  },
+  {
+    "name": "VA - The Gobbler Fest: Nov  9-11",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1741",
+    "state": "VA",
+    "date": "2023-11-09",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "34"
+      },
+      {
+        "name": "Dramatic Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "10"
+      },
+      {
+        "name": "Expository flag",
+        "population": "7"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "27"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "62"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "13"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "32"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "15"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "45"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "15"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "23"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "23"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "30"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "60"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "24"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "48"
+      }
+    ]
+  },
+  {
+    "name": "WA - Field of Mars: Nov  4",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1739",
+    "state": "WA",
+    "date": "2023-11-04",
+    "events": [
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "12"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "24"
+      }
+    ]
+  },
+  {
+    "name": "NC - F5 Field Day: Nov  3-4",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1740",
+    "state": "NC",
+    "date": "2023-11-03",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "15"
+      },
+      {
+        "name": "Expository flag",
+        "population": "3"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "7"
+      },
+      {
+        "name": "Humorous Interpretation flag",
+        "population": "3"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "27"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "4"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "15"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "6"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "9"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "5"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "24"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "24"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "13"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "26"
+      }
+    ]
+  },
+  {
+    "name": "CA - Harvest Hoe Down: Nov  3-4",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1738",
+    "state": "CA",
+    "date": "2023-11-03",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "44"
+      },
+      {
+        "name": "Duo Interpretation flag",
+        "population": "4"
+      },
+      {
+        "name": "Expository flag",
+        "population": "3"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "16"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "45"
+      },
+      {
+        "name": "Interp in a Box flag",
+        "population": "3"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "17"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "5"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "15"
+      },
+      {
+        "name": "Persuasive flag",
+        "population": "7"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "20"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "40"
+      }
+    ]
+  },
+  {
+    "name": "AZ - Cactus Clash: Oct 26-28",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1737",
+    "state": "AZ",
+    "date": "2023-10-26",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "19"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "15"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "30"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "7"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "14"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "14"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "13"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "26"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "9"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "18"
+      }
+    ]
+  },
+  {
+    "name": "AL - Pumpkin Spice Parli Plus: Oct 21",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1732",
+    "state": "AL",
+    "date": "2023-10-21",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "13"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "11"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "25"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "10"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "15"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "30"
+      }
+    ]
+  },
+  {
+    "name": "CA - CA Prologue: Oct 20-21",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1734",
+    "state": "CA",
+    "date": "2023-10-20",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "42"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "19"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "37"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "16"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "25"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "25"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "13"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "26"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "15"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "30"
+      }
+    ]
+  },
+  {
+    "name": "WA - Tip of the Spear: Oct 20-21",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1736",
+    "state": "WA",
+    "date": "2023-10-20",
+    "events": [
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "11"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "11"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "13"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "26"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "8"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "16"
+      }
+    ]
+  },
+  {
+    "name": "MO - \"Big Muddy\" Bash: Oct 19-21",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1735",
+    "state": "MO",
+    "date": "2023-10-19",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "35"
+      },
+      {
+        "name": "Extemporaneous flag",
+        "population": "23"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "52"
+      },
+      {
+        "name": "Mars Hill flag",
+        "population": "8"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "19"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "19"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "15"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "30"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "12"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "24"
+      }
+    ]
+  },
+  {
+    "name": "International - HTN Challenge: Oct 19-20",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1733",
+    "state": "International",
+    "date": "2023-10-19",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "15"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "16"
+      },
+      {
+        "name": "Open Interpretation flag",
+        "population": "8"
+      },
+      {
+        "name": "Original Oratory flag",
+        "population": "16"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "14"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "14"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "10"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "20"
+      }
+    ]
+  },
+  {
+    "name": "TX - Coyote Classic: Oct 13-14",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1731",
+    "state": "TX",
+    "date": "2023-10-13",
+    "events": [
+      {
+        "name": "Impromptu flag",
+        "population": "34"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "32"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "32"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "14"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "28"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "16"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "32"
+      }
+    ]
+  },
+  {
+    "name": "AR - Kickoff Challenge: Oct  5-7",
+    "url": "http://www.speechranks.com/2023/tournaments/view/1730",
+    "state": "AR",
+    "date": "2023-10-05",
+    "events": [
+      {
+        "name": "Apologetics flag",
+        "population": "14"
+      },
+      {
+        "name": "Impromptu flag",
+        "population": "28"
+      },
+      {
+        "name": "Lincoln Douglas Value Debate flag",
+        "population": "26"
+      },
+      {
+        "name": "Lincoln Douglas Value Speaker flag",
+        "population": "26"
+      },
+      {
+        "name": "Parliamentary Debate flag",
+        "population": "18"
+      },
+      {
+        "name": "Parliamentary Speaker flag",
+        "population": "36"
+      },
+      {
+        "name": "Team Policy Debate flag",
+        "population": "18"
+      },
+      {
+        "name": "Team Policy Speaker flag",
+        "population": "36"
       }
     ]
   }
